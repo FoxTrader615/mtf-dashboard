@@ -144,7 +144,7 @@ def fetch(symbol, is_index=False):
         {"Open": "first", "High": "max", "Low": "min", "Close": "last", "Volume": "sum"}
     ).dropna().reset_index()
     w = add_indicators(w).tail(MAX_CANDLES)
-    m = df.resample("M", on="Date").agg(
+    m = df.resample("ME", on="Date").agg(
         {"Open": "first", "High": "max", "Low": "min", "Close": "last", "Volume": "sum"}
     ).dropna().reset_index()
     m = add_indicators(m).tail(MAX_CANDLES)
@@ -594,6 +594,7 @@ if __name__ == "__main__":
     import os
     port = int(os.environ.get("PORT", 10000))
     app.run(host="0.0.0.0", port=port, debug=False)
+
 
 
 
