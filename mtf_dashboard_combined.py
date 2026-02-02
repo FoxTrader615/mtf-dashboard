@@ -76,10 +76,10 @@ def compute_metrics(df):
     pct_52w = round(((last["Close"] - high_52) / high_52) * 100, 2)
     return rsi_d, sma_gap_d, move, range_pct_prev, vol_ok, pct_52w
 
-
-BASE = Path.home() / "Desktop" / "mtf_dashboard"
+BASE = Path(__file__).parent
 CSV_FILE = BASE / "mtf_rsi_nse_cash_signals.csv"
 SECTOR_FILE = BASE / "sector_map.csv"
+
 
 
 def load_symbols():
@@ -594,5 +594,6 @@ if __name__ == "__main__":
     import os
     port = int(os.environ.get("PORT", 10000))
     app.run(host="0.0.0.0", port=port, debug=False)
+
 
 
