@@ -10,13 +10,16 @@ import requests
 # ===============================
 # PATHS
 # ===============================
-BASE = r"C:\Users\HOME\Desktop\mtf_dashboard"
+from pathlib import Path
 
-FILE_PATH = rf"{BASE}\NSE_CASH_YAHOO_CORRECT.csv"
-CACHE_DIR = rf"{BASE}\cache"
-LOG_FILE = rf"{BASE}\scanner_log.txt"
+BASE = Path(__file__).parent
 
-os.makedirs(CACHE_DIR, exist_ok=True)
+FILE_PATH = BASE / "NSE_CASH_YAHOO_CORRECT.csv"
+CACHE_DIR = BASE / "cache"
+LOG_FILE = BASE / "scanner_log.txt"
+
+CACHE_DIR.mkdir(exist_ok=True)
+
 
 
 # ===============================
@@ -264,3 +267,4 @@ df[df["ENTRY_READY"]].to_csv(
 log("=========== SCANNER FINISHED ==========")
 
 print("\nDONE ✔ — open scanner_log.txt to review logs")
+
