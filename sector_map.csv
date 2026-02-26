@@ -1,0 +1,2079 @@
+nse_symbol,yahoo_symbol,company_name,yahoo_sector,sector_index_name,sector_index_symbol
+20MICRONS,20MICRONS.NS,20 Microns Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+21STCENMGM,21STCENMGM.NS,Twentyfirst Century Management Services Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+360ONE,360ONE.NS,360 One Wam Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+3IINFOLTD,3IINFOLTD.NS,3i Infotech Limited,Technology,NIFTY IT,^CNXIT
+3MINDIA,3MINDIA.NS,3M India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+3PLAND,3PLAND.NS,3P Land Holdings Ltd,UNKNOWN,UNKNOWN,NO_INDEX
+5PAISA,5PAISA.NS,5paisa Capital Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+63MOONS,63MOONS.NS,63 moons technologies limited,Technology,NIFTY IT,^CNXIT
+A2ZINFRA,A2ZINFRA.NS,A2Z Infra Engineering Limited,Industrials,NIFTY INFRA,^CNXINFRA
+AADHARHFC,AADHARHFC.NS,AADHARHFC,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+AAKASH,AAKASH.NS,Aakash Exploration Services Limited,Energy,NIFTY ENERGY,^CNXENERGY
+AAREYDRUGS,AAREYDRUGS.NS,Aarey Drugs & Pharmaceuticals Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+AARON,AARON.NS,Aaron Industries Limited,Industrials,NIFTY INFRA,^CNXINFRA
+AARTECH,AARTECH.NS,Aartech Solonics Limited,Industrials,NIFTY INFRA,^CNXINFRA
+AARTIDRUGS,AARTIDRUGS.NS,Aarti Drugs Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+AARTIIND,AARTIIND.NS,Aarti Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+AARTIPHARM,AARTIPHARM.NS,Aarti Pharmalabs Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+AARTISURF,AARTISURF.NS,Aarti Surfactants Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+AARVI,AARVI.NS,Aarvi Encon Limited,Industrials,NIFTY INFRA,^CNXINFRA
+AAVAS,AAVAS.NS,Aavas Financiers Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+ABB,ABB.NS,ABB India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ABBOTINDIA,ABBOTINDIA.NS,Abbott India Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+ABCAPITAL,ABCAPITAL.NS,Aditya Birla Capital Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+ABCOTS,ABCOTS.NS,ABCOTS,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ABDL,ABDL.NS,ABDL,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+ABFRL,ABFRL.NS,Aditya Birla Fashion and Retail Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ABINFRA,ABINFRA.NS,ABINFRA,Industrials,NIFTY INFRA,^CNXINFRA
+ABLBL,ABLBL.NS,ABLBL,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ABMINTLLTD,ABMINTLLTD.NS,ABM International Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ABREL,ABREL.NS,Aditya Birla Real Estate Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+ABSLAMC,ABSLAMC.NS,Aditya Birla Sun Life AMC Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+ACC,ACC.NS,ACC Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ACCELYA,ACCELYA.NS,Accelya Solutions India Limited,Technology,NIFTY IT,^CNXIT
+ACCURACY,ACCURACY.NS,Accuracy Shipping Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ACE,ACE.NS,Action Construction Equipment Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ACEINTEG,ACEINTEG.NS,Ace Integrated Solutions Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ACI,ACI.NS,Archean Chemical Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ACL,ACL.NS,Andhra Cements Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ACMESOLAR,ACMESOLAR.NS,ACMESOLAR,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+ACUTAAS,ACUTAAS.NS,Acutaas Chemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ADANIENSOL,ADANIENSOL.NS,Adani Energy Solutions Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+ADANIENT,ADANIENT.NS,Adani Enterprises Limited,Energy,NIFTY ENERGY,^CNXENERGY
+ADANIGREEN,ADANIGREEN.NS,Adani Green Energy Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+ADANIPORTS,ADANIPORTS.NS,Adani Ports and Special Economic Zone Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ADANIPOWER,ADANIPOWER.NS,Adani Power Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+ADFFOODS,ADFFOODS.NS,ADF Foods Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+ADL,ADL.NS,Archidply Decor Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ADOR,ADOR.NS,Ador Welding Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ADROITINFO,ADROITINFO.NS,Adroit Infotech Limited,Technology,NIFTY IT,^CNXIT
+ADSL,ADSL.NS,Allied Digital Services Limited,Technology,NIFTY IT,^CNXIT
+ADVANCE,ADVANCE.NS,ADVANCE,Basic Materials,NIFTY METAL,^CNXMETAL
+ADVANIHOTR,ADVANIHOTR.NS,Advani Hotels & Resorts (India) Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ADVENTHTL,ADVENTHTL.NS,Advent Hotels International Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ADVENZYMES,ADVENZYMES.NS,Advanced Enzyme Technologies Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+AEGISLOG,AEGISLOG.NS,AEGISLOG,Energy,NIFTY ENERGY,^CNXENERGY
+AEGISVOPAK,AEGISVOPAK.NS,AEGISVOPAK,Energy,NIFTY ENERGY,^CNXENERGY
+AEQUS,AEQUS.NS,AEQUS,Industrials,NIFTY INFRA,^CNXINFRA
+AEROENTER,AEROENTER.NS,Aeroflex Enterprises Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+AEROFLEX,AEROFLEX.NS,Aeroflex Industries Limited,Industrials,NIFTY INFRA,^CNXINFRA
+AERONEU,AERONEU.NS,Aeroflex Neu Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+AETHER,AETHER.NS,Aether Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+AFCONS,AFCONS.NS,AFCONS,Industrials,NIFTY INFRA,^CNXINFRA
+AFFLE,AFFLE.NS,Affle 3i Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+AFFORDABLE,AFFORDABLE.NS,Affordable Robotic & Automation Limited,Industrials,NIFTY INFRA,^CNXINFRA
+AFIL,AFIL.NS,AFIL,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+AFSL,AFSL.NS,Abans Financial Services Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+AGARIND,AGARIND.NS,Agarwal Industrial Corporation Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+AGARWALEYE,AGARWALEYE.NS,AGARWALEYE,Healthcare,NIFTY PHARMA,^CNXPHARMA
+AGI,AGI.NS,AGI Greenpac Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+AGIIL,AGIIL.NS,AGI Infra Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+AGROPHOS,AGROPHOS.NS,Agro Phos (India) Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+AHCL,AHCL.NS,AHCL,Healthcare,NIFTY PHARMA,^CNXPHARMA
+AHLADA,AHLADA.NS,Ahlada Engineers Limited,Industrials,NIFTY INFRA,^CNXINFRA
+AHLEAST,AHLEAST.NS,Asian Hotels (East) Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+AHLUCONT,AHLUCONT.NS,Ahluwalia Contracts (India) Limited,Industrials,NIFTY INFRA,^CNXINFRA
+AIAENG,AIAENG.NS,AIA Engineering Limited,Industrials,NIFTY INFRA,^CNXINFRA
+AIIL,AIIL.NS,Authum Investment & Infrastructure Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+AIRAN,AIRAN.NS,Airan Limited,Technology,NIFTY IT,^CNXIT
+AIROLAM,AIROLAM.NS,Airo Lam Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+AJANTPHARM,AJANTPHARM.NS,Ajanta Pharma Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+AJAXENGG,AJAXENGG.NS,AJAXENGG,Industrials,NIFTY INFRA,^CNXINFRA
+AJMERA,AJMERA.NS,Ajmera Realty & Infra India Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+AJOONI,AJOONI.NS,Ajooni Biotech Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+AKASH,AKASH.NS,Akash Infra-Projects Limited,Industrials,NIFTY INFRA,^CNXINFRA
+AKG,AKG.NS,AKG Exim Limited,Industrials,NIFTY INFRA,^CNXINFRA
+AKI,AKI.NS,AKI India Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+AKSHAR,AKSHAR.NS,Akshar Spintex Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+AKSHARCHEM,AKSHARCHEM.NS,AksharChem (India) Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+AKSHOPTFBR,AKSHOPTFBR.NS,Aksh Optifibre Limited,Technology,NIFTY IT,^CNXIT
+AKUMS,AKUMS.NS,AKUMS,Healthcare,NIFTY PHARMA,^CNXPHARMA
+AKZOINDIA,AKZOINDIA.NS,Akzo Nobel India Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ALANKIT,ALANKIT.NS,Alankit Limited,Technology,NIFTY IT,^CNXIT
+ALBERTDAVD,ALBERTDAVD.NS,Albert David Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+ALEMBICLTD,ALEMBICLTD.NS,Alembic Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+ALICON,ALICON.NS,Alicon Castalloy Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ALIVUS,ALIVUS.NS,Alivus Life Sciences Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+ALKALI,ALKALI.NS,Alkali Metals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ALKEM,ALKEM.NS,Alkem Laboratories Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+ALKYLAMINE,ALKYLAMINE.NS,Alkyl Amines Chemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ALLCARGO,ALLCARGO.NS,Allcargo Logistics Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ALLDIGI,ALLDIGI.NS,Alldigi Tech Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ALLTIME,ALLTIME.NS,ALLTIME,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+ALMONDZ,ALMONDZ.NS,Almondz Global Securities Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+ALOKINDS,ALOKINDS.NS,Alok Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ALPA,ALPA.NS,Alpa Laboratories Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+ALPHAGEO,ALPHAGEO.NS,Alphageo (India) Limited,Energy,NIFTY ENERGY,^CNXENERGY
+AMANTA,AMANTA.NS,AMANTA,Healthcare,NIFTY PHARMA,^CNXPHARMA
+AMBER,AMBER.NS,Amber Enterprises India Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+AMBICAAGAR,AMBICAAGAR.NS,Ambica Agarbathies Aroma & Industries Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+AMBIKCO,AMBIKCO.NS,Ambika Cotton Mills Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+AMBUJACEM,AMBUJACEM.NS,Ambuja Cements Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+AMDIND,AMDIND.NS,AMD Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+AMJLAND,AMJLAND.NS,AMJ Land Holdings Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+AMNPLST,AMNPLST.NS,Amines & Plasticizers Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+AMRUTANJAN,AMRUTANJAN.NS,Amrutanjan Health Care Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+ANANDRATHI,ANANDRATHI.NS,Anand Rathi Wealth Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+ANANTRAJ,ANANTRAJ.NS,Anant Raj Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+ANDHRAPAP,ANDHRAPAP.NS,Andhra Paper Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ANDHRSUGAR,ANDHRSUGAR.NS,The Andhra Sugars Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ANGELONE,ANGELONE.NS,Angel One Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+ANIKINDS,ANIKINDS.NS,Anik Industries Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+ANMOL,ANMOL.NS,Anmol India Limited,Energy,NIFTY ENERGY,^CNXENERGY
+ANTELOPUS,ANTELOPUS.NS,ANTELOPUS,Energy,NIFTY ENERGY,^CNXENERGY
+ANTGRAPHIC,ANTGRAPHIC.NS,Antarctica Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ANTHEM,ANTHEM.NS,ANTHEM,Healthcare,NIFTY PHARMA,^CNXPHARMA
+ANUHPHR,ANUHPHR.NS,Anuh Pharma Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+ANUP,ANUP.NS,The Anup Engineering Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ANURAS,ANURAS.NS,Anupam Rasayan India Ltd,Basic Materials,NIFTY METAL,^CNXMETAL
+APARINDS,APARINDS.NS,APAR Industries Limited,Industrials,NIFTY INFRA,^CNXINFRA
+APCL,APCL.NS,Anjani Portland Cement Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+APCOTEXIND,APCOTEXIND.NS,Apcotex Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+APEX,APEX.NS,Apex Frozen Foods Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+APLAPOLLO,APLAPOLLO.NS,APL Apollo Tubes Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+APLLTD,APLLTD.NS,Alembic Pharmaceuticals Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+APOLLO,APOLLO.NS,Apollo Micro Systems Limited,Industrials,NIFTY INFRA,^CNXINFRA
+APOLLOHOSP,APOLLOHOSP.NS,Apollo Hospitals Enterprise Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+APOLLOPIPE,APOLLOPIPE.NS,Apollo Pipes Limited,Industrials,NIFTY INFRA,^CNXINFRA
+APOLLOTYRE,APOLLOTYRE.NS,Apollo Tyres Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+APOLSINHOT,APOLSINHOT.NS,Apollo Sindoori Hotels Limited,Industrials,NIFTY INFRA,^CNXINFRA
+APTECHT,APTECHT.NS,Aptech Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+APTUS,APTUS.NS,Aptus Value Housing Finance India Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+ARCHIDPLY,ARCHIDPLY.NS,Archidply Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ARCHIES,ARCHIES.NS,Archies Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ARE&M,ARE&M.NS,Amara Raja Energy & Mobility Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ARENTERP,ARENTERP.NS,Rajdarshan Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ARFIN,ARFIN.NS,Arfin India Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ARIES,ARIES.NS,Aries Agro Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ARIHANTCAP,ARIHANTCAP.NS,Arihant Capital Markets Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+ARIHANTSUP,ARIHANTSUP.NS,Arihant Superstructures Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+ARISINFRA,ARISINFRA.NS,ARISINFRA,Industrials,NIFTY INFRA,^CNXINFRA
+ARKADE,ARKADE.NS,ARKADE,Real Estate,NIFTY REALTY,^CNXREALTY
+ARMANFIN,ARMANFIN.NS,Arman Financial Services Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+AROGRANITE,AROGRANITE.NS,Aro Granite Industries Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ARROWGREEN,ARROWGREEN.NS,Arrow Greentech Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ARSSBL,ARSSBL.NS,ARSSBL,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+ARTEMISMED,ARTEMISMED.NS,Artemis Medicare Services Limited,UNKNOWN,UNKNOWN,NO_INDEX
+ARTNIRMAN,ARTNIRMAN.NS,Art Nirman Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+ARVIND,ARVIND.NS,Arvind Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ARVINDFASN,ARVINDFASN.NS,Arvind Fashions Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ARVSMART,ARVSMART.NS,Arvind SmartSpaces Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+ASAHIINDIA,ASAHIINDIA.NS,Asahi India Glass Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ASAHISONG,ASAHISONG.NS,Asahi Songwon Colors Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ASAL,ASAL.NS,Automotive Stampings and Assemblies Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ASALCBR,ASALCBR.NS,Associated Alcohols & Breweries Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+ASHAPURMIN,ASHAPURMIN.NS,Ashapura Minechem Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ASHIANA,ASHIANA.NS,Ashiana Housing Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+ASHIMASYN,ASHIMASYN.NS,Ashima Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+ASHOKA,ASHOKA.NS,Ashoka Buildcon Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ASHOKAMET,ASHOKAMET.NS,Ashoka Metcast Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ASHOKLEY,ASHOKLEY.NS,Ashok Leyland Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ASIANENE,ASIANENE.NS,Asian Energy Services Limited,Energy,NIFTY ENERGY,^CNXENERGY
+ASIANHOTNR,ASIANHOTNR.NS,Asian Hotels (North) Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ASIANPAINT,ASIANPAINT.NS,Asian Paints Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ASIANTILES,ASIANTILES.NS,Asian Granito India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ASKAUTOLTD,ASKAUTOLTD.NS,ASKAUTOLTD,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ASMS,ASMS.NS,Bartronics India Limited,Technology,NIFTY IT,^CNXIT
+ASPINWALL,ASPINWALL.NS,Aspinwall and Company Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+ASTEC,ASTEC.NS,Astec LifeSciences Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ASTERDM,ASTERDM.NS,Aster DM Healthcare Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+ASTRAL,ASTRAL.NS,Astral Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ASTRAMICRO,ASTRAMICRO.NS,Astra Microwave Products Limited,Technology,NIFTY IT,^CNXIT
+ASTRAZEN,ASTRAZEN.NS,AstraZeneca Pharma India Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+ASTRON,ASTRON.NS,Astron Paper & Board Mill Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ATALREAL,ATALREAL.NS,Atal Realtech Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ATAM,ATAM.NS,Atam Valves Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ATGL,ATGL.NS,Adani Total Gas Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+ATHERENERG,ATHERENERG.NS,Ather Energy Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ATL,ATL.NS,Allcargo Terminals Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ATLANTAELE,ATLANTAELE.NS,ATLANTAELE,Industrials,NIFTY INFRA,^CNXINFRA
+ATLASCYCLE,ATLASCYCLE.NS,Atlas Cycles (Haryana) Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ATUL,ATUL.NS,Atul Ltd,Basic Materials,NIFTY METAL,^CNXMETAL
+ATULAUTO,ATULAUTO.NS,Atul Auto Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+AUBANK,AUBANK.NS,AU Small Finance Bank Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+AURIONPRO,AURIONPRO.NS,Aurionpro Solutions Limited,Technology,NIFTY IT,^CNXIT
+AUROPHARMA,AUROPHARMA.NS,Aurobindo Pharma Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+AURUM,AURUM.NS,Aurum PropTech Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+AUSOMENT,AUSOMENT.NS,AuSom Enterprise Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+AUTOAXLES,AUTOAXLES.NS,Automotive Axles Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+AUTOIND,AUTOIND.NS,Autoline Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+AVADHSUGAR,AVADHSUGAR.NS,Avadh Sugar & Energy Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+AVALON,AVALON.NS,Avalon Technologies Limited,Technology,NIFTY IT,^CNXIT
+AVANTEL,AVANTEL.NS,Avantel Limited,Technology,NIFTY IT,^CNXIT
+AVANTIFEED,AVANTIFEED.NS,Avanti Feeds Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+AVG,AVG.NS,AVG Logistics Limited,Industrials,NIFTY INFRA,^CNXINFRA
+AVL,AVL.NS,Aditya Vision Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+AVONMORE,AVONMORE.NS,Avonmore Capital & Management Services Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+AVROIND,AVROIND.NS,Avro India Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+AVTNPL,AVTNPL.NS,AVT Natural Products Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+AWFIS,AWFIS.NS,AWFIS,Industrials,NIFTY INFRA,^CNXINFRA
+AWHCL,AWHCL.NS,Antony Waste Handling Cell Limited,Industrials,NIFTY INFRA,^CNXINFRA
+AWL,AWL.NS,AWL Agri Business Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+AXISBANK,AXISBANK.NS,Axis Bank Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+AYMSYNTEX,AYMSYNTEX.NS,AYM Syntex Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+AZAD,AZAD.NS,AZAD,Industrials,NIFTY INFRA,^CNXINFRA
+BAGFILMS,BAGFILMS.NS,B.A.G. Films and Media Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+BAIDFIN,BAIDFIN.NS,Baid Finserv Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+BAJAJ-AUTO,BAJAJ-AUTO.NS,Bajaj Auto Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+BAJAJCON,BAJAJCON.NS,Bajaj Consumer Care Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+BAJAJELEC,BAJAJELEC.NS,Bajaj Electricals Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+BAJAJFINSV,BAJAJFINSV.NS,Bajaj Finserv Ltd.,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+BAJAJHCARE,BAJAJHCARE.NS,Bajaj HealthCare Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+BAJAJHFL,BAJAJHFL.NS,BAJAJHFL,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+BAJAJHIND,BAJAJHIND.NS,Bajaj Hindusthan Sugar Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+BAJAJHLDNG,BAJAJHLDNG.NS,Bajaj Holdings & Investment Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+BAJAJINDEF,BAJAJINDEF.NS,BAJAJINDEF,Industrials,NIFTY INFRA,^CNXINFRA
+BAJEL,BAJEL.NS,Bajel Projects Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+BAJFINANCE,BAJFINANCE.NS,Bajaj Finance Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+BALAJEE,BALAJEE.NS,BALAJEE,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+BALAJITELE,BALAJITELE.NS,Balaji Telefilms Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+BALAMINES,BALAMINES.NS,Balaji Amines Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+BALAXI,BALAXI.NS,Balaxi Pharmaceuticals Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+BALKRISHNA,BALKRISHNA.NS,Balkrishna Paper Mills Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+BALKRISIND,BALKRISIND.NS,Balkrishna Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+BALMLAWRIE,BALMLAWRIE.NS,Balmer Lawrie & Co. Ltd.,Industrials,NIFTY INFRA,^CNXINFRA
+BALPHARMA,BALPHARMA.NS,Bal Pharma Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+BALRAMCHIN,BALRAMCHIN.NS,Balrampur Chini Mills Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+BALUFORGE,BALUFORGE.NS,Balu Forge Industries Limited,Industrials,NIFTY INFRA,^CNXINFRA
+BANARBEADS,BANARBEADS.NS,Banaras Beads Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+BANARISUG,BANARISUG.NS,Bannari Amman Sugars Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+BANCOINDIA,BANCOINDIA.NS,Banco Products (India) Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+BANDHANBNK,BANDHANBNK.NS,Bandhan Bank Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+BANG,BANG.NS,Bang Overseas Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+BANKA,BANKA.NS,Banka BioLoo Limited,Industrials,NIFTY INFRA,^CNXINFRA
+BANKBARODA,BANKBARODA.NS,Bank of Baroda Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+BANKINDIA,BANKINDIA.NS,Bank of India Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+BANSALWIRE,BANSALWIRE.NS,BANSALWIRE,Basic Materials,NIFTY METAL,^CNXMETAL
+BANSWRAS,BANSWRAS.NS,Banswara Syntex Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+BASF,BASF.NS,BASF India Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+BASML,BASML.NS,Bannari Amman Spinning Mills Ltd,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+BATAINDIA,BATAINDIA.NS,Bata India Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+BAYERCROP,BAYERCROP.NS,Bayer CropScience Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+BBL,BBL.NS,Bharat Bijlee Limited,Industrials,NIFTY INFRA,^CNXINFRA
+BBOX,BBOX.NS,Black Box Limited,Technology,NIFTY IT,^CNXIT
+BBTC,BBTC.NS,The Bombay Burmah Trading Corporation Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+BBTCL,BBTCL.NS,B&B Triplewall Containers Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+BCG,BCG.NS,Brightcom Group Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+BCLIND,BCLIND.NS,BCL Industries Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+BCONCEPTS,BCONCEPTS.NS,Brand Concepts Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+BDL,BDL.NS,Bharat Dynamics Limited,Industrials,NIFTY INFRA,^CNXINFRA
+BEARDSELL,BEARDSELL.NS,Beardsell Limited,Industrials,NIFTY INFRA,^CNXINFRA
+BECTORFOOD,BECTORFOOD.NS,Mrs. Bectors Food Specialities Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+BEDMUTHA,BEDMUTHA.NS,Bedmutha Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+BEL,BEL.NS,Bharat Electronics Limited,Industrials,NIFTY INFRA,^CNXINFRA
+BELLACASA,BELLACASA.NS,Bella Casa Fashion & Retail Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+BELRISE,BELRISE.NS,BELRISE,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+BEML,BEML.NS,BEML Limited,Industrials,NIFTY INFRA,^CNXINFRA
+BEPL,BEPL.NS,Bhansali Engineering Polymers Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+BERGEPAINT,BERGEPAINT.NS,Berger Paints India Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+BESTAGRO,BESTAGRO.NS,Best Agrolife Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+BETA,BETA.NS,BETA,Healthcare,NIFTY PHARMA,^CNXPHARMA
+BFINVEST,BFINVEST.NS,BF Investment Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+BHAGCHEM,BHAGCHEM.NS,Bhagiradha Chemicals & Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+BHAGERIA,BHAGERIA.NS,Bhageria Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+BHANDARI,BHANDARI.NS,Bhandari Hosiery Exports Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+BHARATFORG,BHARATFORG.NS,Bharat Forge Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+BHARATRAS,BHARATRAS.NS,Bharat Rasayan Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+BHARATSE,BHARATSE.NS,Bharat Seats Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+BHARATWIRE,BHARATWIRE.NS,Bharat Wire Ropes Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+BHARTIARTL,BHARTIARTL.NS,Bharti Airtel Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+BHARTIHEXA,BHARTIHEXA.NS,BHARTIHEXA,Communication Services,NIFTY MEDIA,^CNXMEDIA
+BHEL,BHEL.NS,Bharat Heavy Electricals Limited,Industrials,NIFTY INFRA,^CNXINFRA
+BIGBLOC,BIGBLOC.NS,Bigbloc Construction Limited,Industrials,NIFTY INFRA,^CNXINFRA
+BIKAJI,BIKAJI.NS,Bikaji Foods International Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+BIL,BIL.NS,Bhartiya International Ltd.,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+BIOCON,BIOCON.NS,Biocon Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+BIOFILCHEM,BIOFILCHEM.NS,Biofil Chemicals and Pharmaceuticals Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+BIRLACABLE,BIRLACABLE.NS,Birla Cable Limited,Technology,NIFTY IT,^CNXIT
+BIRLACORPN,BIRLACORPN.NS,Birla Corporation Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+BIRLAMONEY,BIRLAMONEY.NS,Aditya Birla Money Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+BIRLANU,BIRLANU.NS,BirlaNu Limited,Industrials,NIFTY INFRA,^CNXINFRA
+BLACKBUCK,BLACKBUCK.NS,BlackBuck Limited,Technology,NIFTY IT,^CNXIT
+BLAL,BLAL.NS,BEML Land Assets Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+BLBLIMITED,BLBLIMITED.NS,BLB Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+BLISSGVS,BLISSGVS.NS,Bliss GVS Pharma Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+BLKASHYAP,BLKASHYAP.NS,B.L. Kashyap and Sons Limited,Industrials,NIFTY INFRA,^CNXINFRA
+BLS,BLS.NS,BLS International Services Limited,Industrials,NIFTY INFRA,^CNXINFRA
+BLSE,BLSE.NS,BLSE,Industrials,NIFTY INFRA,^CNXINFRA
+BLUEDART,BLUEDART.NS,Blue Dart Express Limited,Industrials,NIFTY INFRA,^CNXINFRA
+BLUEJET,BLUEJET.NS,Blue Jet Healthcare Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+BLUESTARCO,BLUESTARCO.NS,Blue Star Limited,Industrials,NIFTY INFRA,^CNXINFRA
+BLUESTONE,BLUESTONE.NS,BLUESTONE,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+BLUSPRING,BLUSPRING.NS,Bluspring Enterprises Limited,Industrials,NIFTY INFRA,^CNXINFRA
+BMWVENTLTD,BMWVENTLTD.NS,BMWVENTLTD,Basic Materials,NIFTY METAL,^CNXMETAL
+BODALCHEM,BODALCHEM.NS,Bodal Chemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+BOHRAIND,BOHRAIND.NS,Bohra Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+BOMDYEING,BOMDYEING.NS,The Bombay Dyeing and Manufacturing Company Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+BOROLTD,BOROLTD.NS,Borosil Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+BORORENEW,BORORENEW.NS,Borosil Renewables Limited,Technology,NIFTY IT,^CNXIT
+BOROSCI,BOROSCI.NS,Borosil Scientific Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+BOSCH-HCIL,BOSCH-HCIL.NS,Bosch Home Comfort India Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+BOSCHLTD,BOSCHLTD.NS,Bosch Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+BPCL,BPCL.NS,Bharat Petroleum Corporation Limited,Energy,NIFTY ENERGY,^CNXENERGY
+BPL,BPL.NS,BPL Limited,Technology,NIFTY IT,^CNXIT
+BRIGADE,BRIGADE.NS,Brigade Enterprises Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+BRIGHOTEL,BRIGHOTEL.NS,BRIGHOTEL,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+BRITANNIA,BRITANNIA.NS,Britannia Industries Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+BRNL,BRNL.NS,Bharat Road Network Limited,Industrials,NIFTY INFRA,^CNXINFRA
+BROOKS,BROOKS.NS,Brooks Laboratories Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+BSE,BSE.NS,BSE Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+BSHSL,BSHSL.NS,Bombay Super Hybrid Seeds Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+BSL,BSL.NS,BSL Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+BSOFT,BSOFT.NS,Birlasoft Limited,Technology,NIFTY IT,^CNXIT
+BTML,BTML.NS,Bodhi Tree Multimedia Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+BUTTERFLY,BUTTERFLY.NS,Butterfly Gandhimathi Appliances Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+BVCL,BVCL.NS,Barak Valley Cements Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+BYKE,BYKE.NS,The Byke Hospitality Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+CALSOFT,CALSOFT.NS,California Software Company Limited,Technology,NIFTY IT,^CNXIT
+CAMLINFINE,CAMLINFINE.NS,Camlin Fine Sciences Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+CAMPUS,CAMPUS.NS,Campus Activewear Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+CAMS,CAMS.NS,Computer Age Management Services Limited,Technology,NIFTY IT,^CNXIT
+CANBK,CANBK.NS,Canara Bank,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+CANFINHOME,CANFINHOME.NS,Can Fin Homes Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+CANHLIFE,CANHLIFE.NS,CANHLIFE,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+CANTABIL,CANTABIL.NS,Cantabil Retail India Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+CAPACITE,CAPACITE.NS,Capacit'e Infraprojects Limited,Industrials,NIFTY INFRA,^CNXINFRA
+CAPILLARY,CAPILLARY.NS,CAPILLARY,Technology,NIFTY IT,^CNXIT
+CAPITALSFB,CAPITALSFB.NS,Capital Small Finance Bank Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+CAPLIPOINT,CAPLIPOINT.NS,Caplin Point Laboratories Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+CAPTRUST,CAPTRUST.NS,Capital Trust Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+CARBORUNIV,CARBORUNIV.NS,Carborundum Universal Limited,Industrials,NIFTY INFRA,^CNXINFRA
+CARERATING,CARERATING.NS,CARE Ratings Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+CARRARO,CARRARO.NS,CARRARO,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+CARTRADE,CARTRADE.NS,CarTrade Tech Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+CARYSIL,CARYSIL.NS,Carysil Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+CASTROLIND,CASTROLIND.NS,Castrol India Limited,Energy,NIFTY ENERGY,^CNXENERGY
+CCHHL,CCHHL.NS,Country Club Hospitality & Holidays Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+CCL,CCL.NS,CCL Products (India) Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+CDSL,CDSL.NS,Central Depository Services (India) Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+CEATLTD,CEATLTD.NS,CEAT Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+CEIGALL,CEIGALL.NS,CEIGALL,Industrials,NIFTY INFRA,^CNXINFRA
+CELEBRITY,CELEBRITY.NS,Celebrity Fashions Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+CELLO,CELLO.NS,Cello World Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+CEMPRO,CEMPRO.NS,Cemindia Projects Limited,Industrials,NIFTY INFRA,^CNXINFRA
+CENTENKA,CENTENKA.NS,Century Enka Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+CENTRALBK,CENTRALBK.NS,Central Bank of India,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+CENTRUM,CENTRUM.NS,Centrum Capital Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+CENTUM,CENTUM.NS,Centum Electronics Limited,Technology,NIFTY IT,^CNXIT
+CENTURYPLY,CENTURYPLY.NS,Century Plyboards (India) Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+CERA,CERA.NS,Cera Sanitaryware Limited,Industrials,NIFTY INFRA,^CNXINFRA
+CESC,CESC.NS,CESC Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+CEWATER,CEWATER.NS,CEWATER,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+CGCL,CGCL.NS,Capri Global Capital Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+CGPOWER,CGPOWER.NS,CG Power and Industrial Solutions Limited,Industrials,NIFTY INFRA,^CNXINFRA
+CHALET,CHALET.NS,Chalet Hotels Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+CHAMBLFERT,CHAMBLFERT.NS,Chambal Fertilisers and Chemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+CHEMBOND,CHEMBOND.NS,Chembond Material Technologies Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+CHEMBONDCH,CHEMBONDCH.NS,Chembond Chemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+CHEMCON,CHEMCON.NS,Chemcon Speciality Chemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+CHEMFAB,CHEMFAB.NS,Chemfab Alkalis Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+CHEMPLASTS,CHEMPLASTS.NS,Chemplast Sanmar Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+CHENNPETRO,CHENNPETRO.NS,Chennai Petroleum Corporation Limited,Energy,NIFTY ENERGY,^CNXENERGY
+CHEVIOT,CHEVIOT.NS,Cheviot Company Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+CHOICEIN,CHOICEIN.NS,Choice International Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+CHOLAFIN,CHOLAFIN.NS,Cholamandalam Investment and Finance Company Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+CHOLAHLDNG,CHOLAHLDNG.NS,Cholamandalam Financial Holdings Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+CIEINDIA,CIEINDIA.NS,CIE Automotive India Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+CIFL,CIFL.NS,Capital India Finance Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+CIGNITITEC,CIGNITITEC.NS,Cigniti Technologies Limited,Technology,NIFTY IT,^CNXIT
+CINELINE,CINELINE.NS,Cineline India Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+CINEVISTA,CINEVISTA.NS,Cinevista Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+CIPLA,CIPLA.NS,Cipla Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+CLEAN,CLEAN.NS,Clean Science and Technology Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+CLEDUCATE,CLEDUCATE.NS,CL Educate Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+CLSEL,CLSEL.NS,Chaman Lal Setia Exports Ltd.,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+CMSINFO,CMSINFO.NS,CMS Info Systems Limited,Industrials,NIFTY INFRA,^CNXINFRA
+CNL,CNL.NS,Creative Newtech Limited,Technology,NIFTY IT,^CNXIT
+COALINDIA,COALINDIA.NS,Coal India Limited,Energy,NIFTY ENERGY,^CNXENERGY
+COCHINSHIP,COCHINSHIP.NS,Cochin Shipyard Limited,Industrials,NIFTY INFRA,^CNXINFRA
+COFFEEDAY,COFFEEDAY.NS,Coffee Day Enterprises Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+COFORGE,COFORGE.NS,Coforge Limited,Technology,NIFTY IT,^CNXIT
+COHANCE,COHANCE.NS,COHANCE,Healthcare,NIFTY PHARMA,^CNXPHARMA
+COLPAL,COLPAL.NS,Colgate-Palmolive (India) Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+COMPUSOFT,COMPUSOFT.NS,Compucom Software Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+CONCOR,CONCOR.NS,Container Corporation of India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+CONCORDBIO,CONCORDBIO.NS,Concord Biotech Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+CONFIPET,CONFIPET.NS,Confidence Petroleum India Limited,Energy,NIFTY ENERGY,^CNXENERGY
+CONSOFINVT,CONSOFINVT.NS,Consolidated Finvest & Holdings Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+CONTROLPR,CONTROLPR.NS,Control Print Limited,Industrials,NIFTY INFRA,^CNXINFRA
+CORALFINAC,CORALFINAC.NS,Coral India Finance and Housing Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+CORDSCABLE,CORDSCABLE.NS,Cords Cable Industries Limited,Industrials,NIFTY INFRA,^CNXINFRA
+COROMANDEL,COROMANDEL.NS,Coromandel International Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+CORONA,CORONA.NS,CORONA,Healthcare,NIFTY PHARMA,^CNXPHARMA
+COSMOFIRST,COSMOFIRST.NS,Cosmo First Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+COUNCODOS,COUNCODOS.NS,Country Condo's Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+CPCAP,CPCAP.NS,CP Capital Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+CPEDU,CPEDU.NS,Career Point Edutech Ltd.,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+CPPLUS,CPPLUS.NS,CPPLUS,Industrials,NIFTY INFRA,^CNXINFRA
+CRAFTSMAN,CRAFTSMAN.NS,Craftsman Automation Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+CRAMC,CRAMC.NS,CRAMC,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+CREATIVEYE,CREATIVEYE.NS,Creative Eye Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+CREDITACC,CREDITACC.NS,CreditAccess Grameen Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+CREST,CREST.NS,Crest Ventures Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+CRISIL,CRISIL.NS,CRISIL Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+CRIZAC,CRIZAC.NS,CRIZAC,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+CROMPTON,CROMPTON.NS,Crompton Greaves Consumer Electricals Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+CROWN,CROWN.NS,Crown Lifters Limited,Industrials,NIFTY INFRA,^CNXINFRA
+CSBBANK,CSBBANK.NS,CSB Bank Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+CSLFINANCE,CSLFINANCE.NS,CSL Finance Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+CTE,CTE.NS,Cambridge Technology Enterprises Limited,Technology,NIFTY IT,^CNXIT
+CUB,CUB.NS,City Union Bank Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+CUBEXTUB,CUBEXTUB.NS,Cubex Tubings Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+CUMMINSIND,CUMMINSIND.NS,Cummins India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+CUPID,CUPID.NS,Cupid Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+CYBERMEDIA,CYBERMEDIA.NS,Cyber Media (India) Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+CYIENT,CYIENT.NS,Cyient Limited,Industrials,NIFTY INFRA,^CNXINFRA
+CYIENTDLM,CYIENTDLM.NS,Cyient DLM Limited,Technology,NIFTY IT,^CNXIT
+DABUR,DABUR.NS,Dabur India Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+DALBHARAT,DALBHARAT.NS,Dalmia Bharat Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+DALMIASUG,DALMIASUG.NS,Dalmia Bharat Sugar and Industries Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+DAMCAPITAL,DAMCAPITAL.NS,DAMCAPITAL,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+DAMODARIND,DAMODARIND.NS,Damodar Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+DANGEE,DANGEE.NS,Dangee Dums Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+DATAMATICS,DATAMATICS.NS,Datamatics Global Services Limited,Technology,NIFTY IT,^CNXIT
+DATAPATTNS,DATAPATTNS.NS,Data Patterns (India) Limited,Industrials,NIFTY INFRA,^CNXINFRA
+DAVANGERE,DAVANGERE.NS,Davangere Sugar Company Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+DBCORP,DBCORP.NS,D. B. Corp Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+DBEIL,DBEIL.NS,DBEIL,Industrials,NIFTY INFRA,^CNXINFRA
+DBL,DBL.NS,Dilip Buildcon Limited,Industrials,NIFTY INFRA,^CNXINFRA
+DBOL,DBOL.NS,Dhampur Bio Organics Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+DBREALTY,DBREALTY.NS,Valor Estate Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+DBSTOCKBRO,DBSTOCKBRO.NS,DB (International) Stock Brokers Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+DCAL,DCAL.NS,Dishman Carbogen Amcis Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+DCBBANK,DCBBANK.NS,DCB Bank Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+DCI,DCI.NS,DC Infotech and Communication Limited,Technology,NIFTY IT,^CNXIT
+DCM,DCM.NS,DCM Limited,Industrials,NIFTY INFRA,^CNXINFRA
+DCMFINSERV,DCMFINSERV.NS,DCM Financial Services Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+DCMNVL,DCMNVL.NS,DCM Nouvelle Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+DCMSHRIRAM,DCMSHRIRAM.NS,DCM Shriram Limited,Industrials,NIFTY INFRA,^CNXINFRA
+DCW,DCW.NS,DCW Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+DCXINDIA,DCXINDIA.NS,DCX Systems Limited,Industrials,NIFTY INFRA,^CNXINFRA
+DDEVPLSTIK,DDEVPLSTIK.NS,Ddev Plastiks Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+DECCANCE,DECCANCE.NS,Deccan Cements Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+DEEDEV,DEEDEV.NS,DEEDEV,Industrials,NIFTY INFRA,^CNXINFRA
+DEEPAKFERT,DEEPAKFERT.NS,Deepak Fertilisers And Petrochemicals Corporation Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+DEEPAKNTR,DEEPAKNTR.NS,Deepak Nitrite Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+DEEPINDS,DEEPINDS.NS,Deep Industries Limited,Energy,NIFTY ENERGY,^CNXENERGY
+DELHIVERY,DELHIVERY.NS,Delhivery Limited,Industrials,NIFTY INFRA,^CNXINFRA
+DELPHIFX,DELPHIFX.NS,Delphi World Money Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+DELTACORP,DELTACORP.NS,Delta Corp Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+DELTAMAGNT,DELTAMAGNT.NS,Delta Manufacturing Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+DEN,DEN.NS,DEN Networks Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+DENORA,DENORA.NS,De Nora India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+DENTA,DENTA.NS,DENTA,Industrials,NIFTY INFRA,^CNXINFRA
+DEVIT,DEVIT.NS,Dev Information Technology Limited,Technology,NIFTY IT,^CNXIT
+DEVX,DEVX.NS,Dev Accelerator Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+DEVYANI,DEVYANI.NS,Devyani International Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+DGCONTENT,DGCONTENT.NS,Digicontent Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+DHAMPURSUG,DHAMPURSUG.NS,Dhampur Sugar Mills Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+DHANBANK,DHANBANK.NS,Dhanlaxmi Bank Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+DHANUKA,DHANUKA.NS,Dhanuka Agritech Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+DHARMAJ,DHARMAJ.NS,Dharmaj Crop Guard Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+DHRUV,DHRUV.NS,Dhruv Consultancy Services Limited,Industrials,NIFTY INFRA,^CNXINFRA
+DHUNINV,DHUNINV.NS,Dhunseri Investments Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+DIACABS,DIACABS.NS,Diamond Power Infrastructure Limited,Industrials,NIFTY INFRA,^CNXINFRA
+DIAMINESQ,DIAMINESQ.NS,Diamines and Chemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+DIAMONDYD,DIAMONDYD.NS,Prataap Snacks Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+DICIND,DICIND.NS,DIC India Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+DIFFNKG,DIFFNKG.NS,DIFFNKG,Industrials,NIFTY INFRA,^CNXINFRA
+DIGIDRIVE,DIGIDRIVE.NS,Digidrive Distributors Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+DIGISPICE,DIGISPICE.NS,DiGiSPICE Technologies Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+DIGITIDE,DIGITIDE.NS,Digitide Solutions Limited,Industrials,NIFTY INFRA,^CNXINFRA
+DIGJAMLMTD,DIGJAMLMTD.NS,Digjam Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+DISHTV,DISHTV.NS,Dish TV India Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+DIVGIITTS,DIVGIITTS.NS,Divgi TorqTransfer Systems Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+DIVISLAB,DIVISLAB.NS,Divi's Laboratories Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+DIXON,DIXON.NS,Dixon Technologies (India) Limited,Technology,NIFTY IT,^CNXIT
+DJML,DJML.NS,DJ Mediaprint & Logistics Limited,Industrials,NIFTY INFRA,^CNXINFRA
+DLF,DLF.NS,DLF Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+DLINKINDIA,DLINKINDIA.NS,D-Link (India) Limited,Technology,NIFTY IT,^CNXIT
+DMART,DMART.NS,Avenue Supermarts Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+DMCC,DMCC.NS,DMCC Speciality Chemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+DNAMEDIA,DNAMEDIA.NS,Diligent Media Corporation Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+DODLA,DODLA.NS,Dodla Dairy Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+DOLATALGO,DOLATALGO.NS,Dolat Algotech Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+DOLLAR,DOLLAR.NS,Dollar Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+DOLPHIN,DOLPHIN.NS,Dolphin Offshore Enterprises (India) Limited,Energy,NIFTY ENERGY,^CNXENERGY
+DOMS,DOMS.NS,DOMS Industries Limited,Industrials,NIFTY INFRA,^CNXINFRA
+DONEAR,DONEAR.NS,Donear Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+DPABHUSHAN,DPABHUSHAN.NS,D. P. Abhushan Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+DPSCLTD,DPSCLTD.NS,India Power Corporation Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+DPWIRES,DPWIRES.NS,D.P. Wires Limited,Industrials,NIFTY INFRA,^CNXINFRA
+DRCSYSTEMS,DRCSYSTEMS.NS,DRC Systems India Limited,Technology,NIFTY IT,^CNXIT
+DREAMFOLKS,DREAMFOLKS.NS,Dreamfolks Services Limited,Industrials,NIFTY INFRA,^CNXINFRA
+DREDGECORP,DREDGECORP.NS,Dredging Corporation of India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+DRREDDY,DRREDDY.NS,Dr. Reddy's Laboratories Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+DSSL,DSSL.NS,Dynacons Systems & Solutions Limited,Technology,NIFTY IT,^CNXIT
+DTIL,DTIL.NS,Dhunseri Tea & Industries Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+DUCON,DUCON.NS,Ducon Infratechnologies Limited,Industrials,NIFTY INFRA,^CNXINFRA
+DVL,DVL.NS,Dhunseri Ventures Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+DWARKESH,DWARKESH.NS,Dwarikesh Sugar Industries Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+DYCL,DYCL.NS,Dynamic Cables Limited,Industrials,NIFTY INFRA,^CNXINFRA
+DYNAMATECH,DYNAMATECH.NS,Dynamatic Technologies Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+DYNPRO,DYNPRO.NS,Dynemic Products Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+E2E,E2E.NS,E2E Networks Limited,Technology,NIFTY IT,^CNXIT
+EASEMYTRIP,EASEMYTRIP.NS,Easy Trip Planners Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+EBGNG,EBGNG.NS,EBGNG,Technology,NIFTY IT,^CNXIT
+ECLERX,ECLERX.NS,eClerx Services Limited,Technology,NIFTY IT,^CNXIT
+ECOSMOBLTY,ECOSMOBLTY.NS,ECOSMOBLTY,Industrials,NIFTY INFRA,^CNXINFRA
+EDELWEISS,EDELWEISS.NS,Edelweiss Financial Services Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+EFCIL,EFCIL.NS,EFC (I) Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+EICHERMOT,EICHERMOT.NS,Eicher Motors Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+EIDPARRY,EIDPARRY.NS,E.I.D.- Parry (India) Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+EIEL,EIEL.NS,EIEL,Industrials,NIFTY INFRA,^CNXINFRA
+EIFFL,EIFFL.NS,Euro India Fresh Foods Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+EIHAHOTELS,EIHAHOTELS.NS,EIH Associated Hotels Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+EIHOTEL,EIHOTEL.NS,EIH Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+EIMCOELECO,EIMCOELECO.NS,Eimco Elecon (India) Limited,Industrials,NIFTY INFRA,^CNXINFRA
+EKC,EKC.NS,Everest Kanto Cylinder Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ELDEHSG,ELDEHSG.NS,Eldeco Housing and Industries Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+ELECON,ELECON.NS,Elecon Engineering Company Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ELECTCAST,ELECTCAST.NS,Electrosteel Castings Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ELECTHERM,ELECTHERM.NS,Electrotherm (India) Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ELGIEQUIP,ELGIEQUIP.NS,Elgi Equipments Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ELGIRUBCO,ELGIRUBCO.NS,Elgi Rubber Company Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ELIN,ELIN.NS,Elin Electronics Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ELLEN,ELLEN.NS,ELLEN,Basic Materials,NIFTY METAL,^CNXMETAL
+EMAMILTD,EMAMILTD.NS,Emami Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+EMAMIPAP,EMAMIPAP.NS,Emami Paper Mills Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+EMAMIREAL,EMAMIREAL.NS,Emami Realty Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+EMCURE,EMCURE.NS,EMCURE,Healthcare,NIFTY PHARMA,^CNXPHARMA
+EMIL,EMIL.NS,Electronics Mart India Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+EMKAY,EMKAY.NS,Emkay Global Financial Services Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+EMMBI,EMMBI.NS,Emmbi Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+EMMVEE,EMMVEE.NS,EMMVEE,Technology,NIFTY IT,^CNXIT
+EMSLIMITED,EMSLIMITED.NS,EMS Limited,Industrials,NIFTY INFRA,^CNXINFRA
+EMUDHRA,EMUDHRA.NS,eMudhra Limited,Technology,NIFTY IT,^CNXIT
+ENDURANCE,ENDURANCE.NS,Endurance Technologies Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ENGINERSIN,ENGINERSIN.NS,Engineers India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ENIL,ENIL.NS,Entertainment Network (India) Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+ENRIN,ENRIN.NS,Siemens Energy India Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+ENTERO,ENTERO.NS,Entero Healthcare Solutions Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+EPACK,EPACK.NS,EPACK Durable Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+EPACKPEB,EPACKPEB.NS,EPACKPEB,Industrials,NIFTY INFRA,^CNXINFRA
+EPIGRAL,EPIGRAL.NS,Epigral Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+EPL,EPL.NS,EPL Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+EQUITASBNK,EQUITASBNK.NS,Equitas Small Finance Bank Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+ERIS,ERIS.NS,Eris Lifesciences Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+ESABINDIA,ESABINDIA.NS,ESAB India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ESAFSFB,ESAFSFB.NS,ESAF Small Finance Bank,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+ESCORTS,ESCORTS.NS,Escorts Kubota Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ESSENTIA,ESSENTIA.NS,Integra Essentia Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+ESTER,ESTER.NS,Ester Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ETERNAL,ETERNAL.NS,Eternal Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ETHOSLTD,ETHOSLTD.NS,Ethos Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+EUREKAFORB,EUREKAFORB.NS,Eureka Forbes Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+EUROBOND,EUROBOND.NS,EUROBOND,Industrials,NIFTY INFRA,^CNXINFRA
+EUROPRATIK,EUROPRATIK.NS,EUROPRATIK,Basic Materials,NIFTY METAL,^CNXMETAL
+EVEREADY,EVEREADY.NS,Eveready Industries India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+EVERESTIND,EVERESTIND.NS,Everest Industries Limited,Industrials,NIFTY INFRA,^CNXINFRA
+EXCEL,EXCEL.NS,Excel Realty N Infra Limited,Industrials,NIFTY INFRA,^CNXINFRA
+EXCELINDUS,EXCELINDUS.NS,Excel Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+EXCELSOFT,EXCELSOFT.NS,EXCELSOFT,Technology,NIFTY IT,^CNXIT
+EXICOM,EXICOM.NS,Exicom Tele-Systems Limited,Industrials,NIFTY INFRA,^CNXINFRA
+EXIDEIND,EXIDEIND.NS,Exide Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+EXPLEOSOL,EXPLEOSOL.NS,Expleo Solutions Limited,Technology,NIFTY IT,^CNXIT
+FABTECH,FABTECH.NS,FABTECH,Healthcare,NIFTY PHARMA,^CNXPHARMA
+FACT,FACT.NS,The Fertilisers and Chemicals Travancore Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+FAIRCHEMOR,FAIRCHEMOR.NS,Fairchem Organics Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+FAZE3Q,FAZE3Q.NS,Faze Three Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+FCL,FCL.NS,Fineotex Chemical Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+FCSSOFT,FCSSOFT.NS,FCS Software Solutions Limited,Technology,NIFTY IT,^CNXIT
+FDC,FDC.NS,FDC Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+FEDERALBNK,FEDERALBNK.NS,The Federal Bank Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+FEDFINA,FEDFINA.NS,Fedbank Financial Services Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+FIBERWEB,FIBERWEB.NS,Fiberweb (India) Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+FIEMIND,FIEMIND.NS,Fiem Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+FILATEX,FILATEX.NS,Filatex India Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+FILATFASH,FILATFASH.NS,Filatex Fashions Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+FINCABLES,FINCABLES.NS,Finolex Cables Limited,Industrials,NIFTY INFRA,^CNXINFRA
+FINEORG,FINEORG.NS,Fine Organic Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+FINKURVE,FINKURVE.NS,Finkurve Financial Services Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+FINOPB,FINOPB.NS,Fino Payments Bank Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+FINPIPE,FINPIPE.NS,Finolex Industries Limited,Industrials,NIFTY INFRA,^CNXINFRA
+FIRSTCRY,FIRSTCRY.NS,FIRSTCRY,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+FISCHER,FISCHER.NS,Fischer Medical Ventures Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+FIVESTAR,FIVESTAR.NS,Five-Star Business Finance Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+FLAIR,FLAIR.NS,FLAIR,Industrials,NIFTY INFRA,^CNXINFRA
+FLEXITUFF,FLEXITUFF.NS,Flexituff Ventures International Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+FLUOROCHEM,FLUOROCHEM.NS,Gujarat Fluorochemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+FMGOETZE,FMGOETZE.NS,Federal-Mogul Goetze (India) Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+FMNL,FMNL.NS,Future Market Networks Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+FOCUS,FOCUS.NS,Focus Lighting and Fixtures Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+FOODSIN,FOODSIN.NS,Foods and Inns Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+FORCEMOT,FORCEMOT.NS,Force Motors Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+FORTIS,FORTIS.NS,Fortis Healthcare Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+FOSECOIND,FOSECOIND.NS,Foseco India Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+FSL,FSL.NS,Firstsource Solutions Limited,Technology,NIFTY IT,^CNXIT
+FUSION,FUSION.NS,Fusion Finance Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+GABRIEL,GABRIEL.NS,Gabriel India Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+GAEL,GAEL.NS,Gujarat Ambuja Exports Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+GAIL,GAIL.NS,GAIL (India) Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+GALAPREC,GALAPREC.NS,GALAPREC,Industrials,NIFTY INFRA,^CNXINFRA
+GALAXYSURF,GALAXYSURF.NS,Galaxy Surfactants Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+GALLANTT,GALLANTT.NS,Gallantt Ispat Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+GANDHAR,GANDHAR.NS,Gandhar Oil Refinery (India) Limited,Energy,NIFTY ENERGY,^CNXENERGY
+GANDHITUBE,GANDHITUBE.NS,Gandhi Special Tubes Limited,Industrials,NIFTY INFRA,^CNXINFRA
+GANECOS,GANECOS.NS,Ganesha Ecosphere Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+GANESHBE,GANESHBE.NS,Ganesh Benzoplast Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+GANESHCP,GANESHCP.NS,GANESHCP,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+GANESHHOU,GANESHHOU.NS,Ganesh Housing Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+GANGAFORGE,GANGAFORGE.NS,Ganga Forging Limited,Industrials,NIFTY INFRA,^CNXINFRA
+GANGESSECU,GANGESSECU.NS,Ganges Securities Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+GARFIBRES,GARFIBRES.NS,Garware Technical Fibres Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+GARUDA,GARUDA.NS,GARUDA,Industrials,NIFTY INFRA,^CNXINFRA
+GATECH,GATECH.NS,GACM Technologies Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+GATECHDVR,GATECHDVR.NS,GACM Technologies Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+GATEWAY,GATEWAY.NS,Gateway Distriparks Limited,Industrials,NIFTY INFRA,^CNXINFRA
+GEECEE,GEECEE.NS,GeeCee Ventures Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+GEEKAYWIRE,GEEKAYWIRE.NS,Geekay Wires Limited,Industrials,NIFTY INFRA,^CNXINFRA
+GEMAROMA,GEMAROMA.NS,GEMAROMA,Basic Materials,NIFTY METAL,^CNXMETAL
+GENCON,GENCON.NS,Generic Engineering Construction and Projects Limited,Industrials,NIFTY INFRA,^CNXINFRA
+GENESYS,GENESYS.NS,Genesys International Corporation Limited,Technology,NIFTY IT,^CNXIT
+GENUSPAPER,GENUSPAPER.NS,Genus Paper & Boards Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+GENUSPOWER,GENUSPOWER.NS,Genus Power Infrastructures Limited,Industrials,NIFTY INFRA,^CNXINFRA
+GEOJITFSL,GEOJITFSL.NS,Geojit Financial Services Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+GESHIP,GESHIP.NS,The Great Eastern Shipping Company Limited,Industrials,NIFTY INFRA,^CNXINFRA
+GFLLIMITED,GFLLIMITED.NS,GFL Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+GHCL,GHCL.NS,GHCL Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+GHCLTEXTIL,GHCLTEXTIL.NS,GHCL Textiles Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+GICHSGFIN,GICHSGFIN.NS,GIC Housing Finance Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+GICRE,GICRE.NS,General Insurance Corporation of India,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+GILLANDERS,GILLANDERS.NS,Gillanders Arbuthnot and Company Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+GILLETTE,GILLETTE.NS,Gillette India Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+GINNIFILA,GINNIFILA.NS,Ginni Filaments Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+GIPCL,GIPCL.NS,Gujarat Industries Power Company Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+GKENERGY,GKENERGY.NS,GKENERGY,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+GKWLIMITED,GKWLIMITED.NS,GKW Limited,Industrials,NIFTY INFRA,^CNXINFRA
+GLAND,GLAND.NS,Gland Pharma Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+GLAXO,GLAXO.NS,GlaxoSmithKline Pharmaceuticals Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+GLENMARK,GLENMARK.NS,Glenmark Pharmaceuticals Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+GLOBALE,GLOBALE.NS,Globale Tessile Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+GLOBALVECT,GLOBALVECT.NS,Global Vectra Helicorp Limited,Industrials,NIFTY INFRA,^CNXINFRA
+GLOBE,GLOBE.NS,Globe Enterprises (India) Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+GLOBECIVIL,GLOBECIVIL.NS,GLOBECIVIL,Industrials,NIFTY INFRA,^CNXINFRA
+GLOBUSSPR,GLOBUSSPR.NS,Globus Spirits Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+GLOSTERLTD,GLOSTERLTD.NS,Gloster Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+GLOTTIS,GLOTTIS.NS,GLOTTIS,Industrials,NIFTY INFRA,^CNXINFRA
+GMBREW,GMBREW.NS,G.M. Breweries Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+GMDCLTD,GMDCLTD.NS,Gujarat Mineral Development Corporation Limited,Energy,NIFTY ENERGY,^CNXENERGY
+GMMPFAUDLR,GMMPFAUDLR.NS,GMM Pfaudler Limited,Industrials,NIFTY INFRA,^CNXINFRA
+GMRAIRPORT,GMRAIRPORT.NS,GMR Airports Limited,Industrials,NIFTY INFRA,^CNXINFRA
+GMRP&UI,GMRP&UI.NS,GMR Power And Urban Infra Limited,Energy,NIFTY ENERGY,^CNXENERGY
+GNA,GNA.NS,G N A Axles Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+GNFC,GNFC.NS,Gujarat Narmada Valley Fertilizers & Chemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+GOACARBON,GOACARBON.NS,Goa Carbon Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+GOCLCORP,GOCLCORP.NS,GOCL Corporation Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+GOCOLORS,GOCOLORS.NS,Go Fashion (India) Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+GODAVARIB,GODAVARIB.NS,GODAVARIB,Basic Materials,NIFTY METAL,^CNXMETAL
+GODFRYPHLP,GODFRYPHLP.NS,Godfrey Phillips India Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+GODIGIT,GODIGIT.NS,GODIGIT,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+GODREJAGRO,GODREJAGRO.NS,Godrej Agrovet Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+GODREJCP,GODREJCP.NS,Godrej Consumer Products Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+GODREJIND,GODREJIND.NS,Godrej Industries Limited,Industrials,NIFTY INFRA,^CNXINFRA
+GODREJPROP,GODREJPROP.NS,Godrej Properties Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+GOKEX,GOKEX.NS,Gokaldas Exports Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+GOKUL,GOKUL.NS,Gokul Refoils & Solvent Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+GOKULAGRO,GOKULAGRO.NS,Gokul Agro Resources Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+GOLDIAM,GOLDIAM.NS,Goldiam International Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+GOLDTECH,GOLDTECH.NS,AION-TECH Solutions Limited,Technology,NIFTY IT,^CNXIT
+GOODLUCK,GOODLUCK.NS,Goodluck India Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+GOPAL,GOPAL.NS,Gopal Snacks Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+GOYALALUM,GOYALALUM.NS,Goyal Aluminiums Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+GPIL,GPIL.NS,Godawari Power & Ispat Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+GPPL,GPPL.NS,Gujarat Pipavav Port Limited,Industrials,NIFTY INFRA,^CNXINFRA
+GPTHEALTH,GPTHEALTH.NS,GPT Healthcare Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+GPTINFRA,GPTINFRA.NS,GPT Infraprojects Limited,Industrials,NIFTY INFRA,^CNXINFRA
+GRANULES,GRANULES.NS,Granules India Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+GRAPHITE,GRAPHITE.NS,Graphite India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+GRASIM,GRASIM.NS,Grasim Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+GRAVITA,GRAVITA.NS,Gravita India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+GREAVESCOT,GREAVESCOT.NS,Greaves Cotton Limited,Industrials,NIFTY INFRA,^CNXINFRA
+GREENLAM,GREENLAM.NS,Greenlam Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+GREENPANEL,GREENPANEL.NS,Greenpanel Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+GREENPLY,GREENPLY.NS,Greenply Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+GREENPOWER,GREENPOWER.NS,Orient Green Power Company Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+GRINDWELL,GRINDWELL.NS,Grindwell Norton Limited,Industrials,NIFTY INFRA,^CNXINFRA
+GRINFRA,GRINFRA.NS,G R Infraprojects Limited,Industrials,NIFTY INFRA,^CNXINFRA
+GRMOVER,GRMOVER.NS,GRM Overseas Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+GROBTEA,GROBTEA.NS,The Grob Tea Company Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+GROWW,GROWW.NS,GROWW,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+GRPLTD,GRPLTD.NS,GRP Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+GRSE,GRSE.NS,Garden Reach Shipbuilders & Engineers Limited,Industrials,NIFTY INFRA,^CNXINFRA
+GRWRHITECH,GRWRHITECH.NS,Garware Hi-Tech Films Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+GSFC,GSFC.NS,Gujarat State Fertilizers & Chemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+GSPL,GSPL.NS,Gujarat State Petronet Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+GSS,GSS.NS,GSS Infotech Limited,Technology,NIFTY IT,^CNXIT
+GTECJAINX,GTECJAINX.NS,G-Tec Jainx Education Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+GTL,GTL.NS,GTL Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+GTLINFRA,GTLINFRA.NS,GTL Infrastructure Limited,Technology,NIFTY IT,^CNXIT
+GTPL,GTPL.NS,GTPL Hathway Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+GUFICBIO,GUFICBIO.NS,Gufic Biosciences Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+GUJALKALI,GUJALKALI.NS,Gujarat Alkalies and Chemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+GUJAPOLLO,GUJAPOLLO.NS,Gujarat Apollo Industries Limited,Industrials,NIFTY INFRA,^CNXINFRA
+GUJGASLTD,GUJGASLTD.NS,Gujarat Gas Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+GUJTHEM,GUJTHEM.NS,Gujarat Themis Biosyn Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+GULFOILLUB,GULFOILLUB.NS,Gulf Oil Lubricants India Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+GULFPETRO,GULFPETRO.NS,GP Petroleums Limited,Energy,NIFTY ENERGY,^CNXENERGY
+GULPOLY,GULPOLY.NS,Gulshan Polyols Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+GVPIL,GVPIL.NS,GE Power India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+GVPTECH,GVPTECH.NS,GVP Infotech Limited,Technology,NIFTY IT,^CNXIT
+GVT&D,GVT&D.NS,GE Vernova T&D India Ltd,Industrials,NIFTY INFRA,^CNXINFRA
+HAL,HAL.NS,Hindustan Aeronautics Limited,Industrials,NIFTY INFRA,^CNXINFRA
+HAPPSTMNDS,HAPPSTMNDS.NS,Happiest Minds Technologies Limited,Technology,NIFTY IT,^CNXIT
+HAPPYFORGE,HAPPYFORGE.NS,HAPPYFORGE,Industrials,NIFTY INFRA,^CNXINFRA
+HARDWYN,HARDWYN.NS,Hardwyn India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+HARIOMPIPE,HARIOMPIPE.NS,Hariom Pipe Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+HARRMALAYA,HARRMALAYA.NS,Harrisons Malayalam Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+HARSHA,HARSHA.NS,Harsha Engineers International Limited,Industrials,NIFTY INFRA,^CNXINFRA
+HATHWAY,HATHWAY.NS,Hathway Cable and Datacom Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+HATSUN,HATSUN.NS,Hatsun Agro Product Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+HAVELLS,HAVELLS.NS,Havells India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+HAVISHA,HAVISHA.NS,Sri Havisha Hospitality and Infrastructure Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+HBLENGINE,HBLENGINE.NS,HBLENGINE,Industrials,NIFTY INFRA,^CNXINFRA
+HCC,HCC.NS,Hindustan Construction Company Limited,Industrials,NIFTY INFRA,^CNXINFRA
+HCG,HCG.NS,HealthCare Global Enterprises Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+HCL-INSYS,HCL-INSYS.NS,HCL Infosystems Limited,Technology,NIFTY IT,^CNXIT
+HCLTECH,HCLTECH.NS,HCL Technologies Limited,Technology,NIFTY IT,^CNXIT
+HDBFS,HDBFS.NS,HDBFS,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+HDFCAMC,HDFCAMC.NS,HDFC Asset Management Company Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+HDFCBANK,HDFCBANK.NS,HDFC Bank Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+HDFCLIFE,HDFCLIFE.NS,HDFC Life Insurance Company Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+HEADSUP,HEADSUP.NS,Heads UP Ventures Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+HECPROJECT,HECPROJECT.NS,HEC Infra Projects Limited,Industrials,NIFTY INFRA,^CNXINFRA
+HEG,HEG.NS,HEG Limited,Industrials,NIFTY INFRA,^CNXINFRA
+HEIDELBERG,HEIDELBERG.NS,HeidelbergCement India Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+HEMIPROP,HEMIPROP.NS,Hemisphere Properties India Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+HERANBA,HERANBA.NS,Heranba Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+HERCULES,HERCULES.NS,Hercules Investments Limited,Industrials,NIFTY INFRA,^CNXINFRA
+HERITGFOOD,HERITGFOOD.NS,Heritage Foods Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+HEROMOTOCO,HEROMOTOCO.NS,Hero MotoCorp Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+HESTERBIO,HESTERBIO.NS,Hester Biosciences Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+HEUBACHIND,HEUBACHIND.NS,Sudarshan Colorants India Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+HEXATRADEX,HEXATRADEX.NS,Hexa Tradex Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+HEXT,HEXT.NS,Hexaware Technologies Limited,Technology,NIFTY IT,^CNXIT
+HFCL,HFCL.NS,HFCL Limited,Technology,NIFTY IT,^CNXIT
+HGINFRA,HGINFRA.NS,H.G. Infra Engineering Limited,Industrials,NIFTY INFRA,^CNXINFRA
+HGM,HGM.NS,Handson Global Management (HGM) Limited,Technology,NIFTY IT,^CNXIT
+HGS,HGS.NS,Hinduja Global Solutions Limited,Industrials,NIFTY INFRA,^CNXINFRA
+HIKAL,HIKAL.NS,Hikal Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+HILINFRA,HILINFRA.NS,HILINFRA,Industrials,NIFTY INFRA,^CNXINFRA
+HILTON,HILTON.NS,Hilton Metal Forging Limited,Industrials,NIFTY INFRA,^CNXINFRA
+HIMATSEIDE,HIMATSEIDE.NS,Himatsingka Seide Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+HINDALCO,HINDALCO.NS,Hindalco Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+HINDCOMPOS,HINDCOMPOS.NS,Hindustan Composites Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+HINDCON,HINDCON.NS,Hindcon Chemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+HINDCOPPER,HINDCOPPER.NS,Hindustan Copper Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+HINDOILEXP,HINDOILEXP.NS,Hindustan Oil Exploration Company Limited,Energy,NIFTY ENERGY,^CNXENERGY
+HINDPETRO,HINDPETRO.NS,Hindustan Petroleum Corporation Limited,Energy,NIFTY ENERGY,^CNXENERGY
+HINDUNILVR,HINDUNILVR.NS,Hindustan Unilever Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+HINDWAREAP,HINDWAREAP.NS,Hindware Home Innovation Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+HINDZINC,HINDZINC.NS,Hindustan Zinc Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+HIRECT,HIRECT.NS,Hind Rectifiers Limited,Industrials,NIFTY INFRA,^CNXINFRA
+HISARMETAL,HISARMETAL.NS,Hisar Metal Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+HITECH,HITECH.NS,Hi-Tech Pipes Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+HITECHCORP,HITECHCORP.NS,Hitech Corporation Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+HLEGLAS,HLEGLAS.NS,HLE Glascoat Limited,Industrials,NIFTY INFRA,^CNXINFRA
+HLVLTD,HLVLTD.NS,HLV Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+HMAAGRO,HMAAGRO.NS,HMA Agro Industries Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+HMVL,HMVL.NS,Hindustan Media Ventures Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+HNDFDS,HNDFDS.NS,Hindustan Foods Limited,Industrials,NIFTY INFRA,^CNXINFRA
+HOMEFIRST,HOMEFIRST.NS,Home First Finance Company India Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+HONASA,HONASA.NS,Honasa Consumer Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+HONAUT,HONAUT.NS,Honeywell Automation India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+HONDAPOWER,HONDAPOWER.NS,Honda India Power Products Limited,Industrials,NIFTY INFRA,^CNXINFRA
+HPAL,HPAL.NS,HP Adhesives Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+HPIL,HPIL.NS,Hindprakash Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+HPL,HPL.NS,HPL Electric & Power Limited,Industrials,NIFTY INFRA,^CNXINFRA
+HSCL,HSCL.NS,Himadri Speciality Chemical Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+HTMEDIA,HTMEDIA.NS,HT Media Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+HUBTOWN,HUBTOWN.NS,Hubtown Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+HUDCO,HUDCO.NS,Housing and Urban Development Corporation Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+HUHTAMAKI,HUHTAMAKI.NS,Huhtamaki India Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+HYUNDAI,HYUNDAI.NS,HYUNDAI,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+IBULLSLTD,IBULLSLTD.NS,IBULLSLTD,Real Estate,NIFTY REALTY,^CNXREALTY
+ICDSLTD,ICDSLTD.NS,ICDS Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+ICEMAKE,ICEMAKE.NS,Ice Make Refrigeration Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ICICIAMC,ICICIAMC.NS,ICICIAMC,UNKNOWN,UNKNOWN,NO_INDEX
+ICICIBANK,ICICIBANK.NS,ICICI Bank Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+ICICIGI,ICICIGI.NS,ICICI Lombard General Insurance Company Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+ICICIPRULI,ICICIPRULI.NS,ICICI Prudential Life Insurance Company Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+ICIL,ICIL.NS,Indo Count Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ICRA,ICRA.NS,ICRA Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+IDBI,IDBI.NS,IDBI Bank Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+IDEA,IDEA.NS,Vodafone Idea Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+IDEAFORGE,IDEAFORGE.NS,ideaForge Technology Limited,Technology,NIFTY IT,^CNXIT
+IDFCFIRSTB,IDFCFIRSTB.NS,IDFC First Bank Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+IEX,IEX.NS,Indian Energy Exchange Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+IFBAGRO,IFBAGRO.NS,IFB Agro Industries Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+IFBIND,IFBIND.NS,IFB Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+IFCI,IFCI.NS,IFCI Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+IFGLEXPOR,IFGLEXPOR.NS,IFGL Refractories Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+IGARASHI,IGARASHI.NS,Igarashi Motors India Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+IGCL,IGCL.NS,IGCL,Basic Materials,NIFTY METAL,^CNXMETAL
+IGIL,IGIL.NS,International Gemmological Institute (India) Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+IGL,IGL.NS,Indraprastha Gas Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+IGPL,IGPL.NS,I G Petrochemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+IIFL,IIFL.NS,IIFL Finance Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+IIFLCAPS,IIFLCAPS.NS,IIFL Capital Services Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+IITL,IITL.NS,Industrial Investment Trust Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+IKIO,IKIO.NS,IKIO Technologies Limited,Technology,NIFTY IT,^CNXIT
+IKS,IKS.NS,IKS,Healthcare,NIFTY PHARMA,^CNXPHARMA
+IMAGICAA,IMAGICAA.NS,Imagicaaworld Entertainment Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+IMFA,IMFA.NS,Indian Metals and Ferro Alloys Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+IMPAL,IMPAL.NS,India Motor Parts & Accessories Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+INCREDIBLE,INCREDIBLE.NS,Incredible Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+INDBANK,INDBANK.NS,Indbank Merchant Banking Services Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+INDGN,INDGN.NS,INDGN,Healthcare,NIFTY PHARMA,^CNXPHARMA
+INDHOTEL,INDHOTEL.NS,The Indian Hotels Company Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+INDIACEM,INDIACEM.NS,The India Cements Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+INDIAGLYCO,INDIAGLYCO.NS,India Glycols Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+INDIAMART,INDIAMART.NS,IndiaMART InterMESH Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+INDIANB,INDIANB.NS,Indian Bank,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+INDIANCARD,INDIANCARD.NS,The Indian Card Clothing Company Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+INDIANHUME,INDIANHUME.NS,The Indian Hume Pipe Company Limited,Industrials,NIFTY INFRA,^CNXINFRA
+INDIASHLTR,INDIASHLTR.NS,India Shelter Finance Corporation Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+INDIGO,INDIGO.NS,InterGlobe Aviation Limited,Industrials,NIFTY INFRA,^CNXINFRA
+INDIGOPNTS,INDIGOPNTS.NS,Indigo Paints Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+INDIQUBE,INDIQUBE.NS,INDIQUBE,Real Estate,NIFTY REALTY,^CNXREALTY
+INDNIPPON,INDNIPPON.NS,India Nippon Electricals Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+INDOAMIN,INDOAMIN.NS,Indo Amines Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+INDOBORAX,INDOBORAX.NS,Indo Borax & Chemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+INDOCO,INDOCO.NS,Indoco Remedies Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+INDOFARM,INDOFARM.NS,INDOFARM,Industrials,NIFTY INFRA,^CNXINFRA
+INDORAMA,INDORAMA.NS,Indo Rama Synthetics (India) Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+INDOSTAR,INDOSTAR.NS,IndoStar Capital Finance Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+INDOTECH,INDOTECH.NS,Indo Tech Transformers Limited,Industrials,NIFTY INFRA,^CNXINFRA
+INDOTHAI,INDOTHAI.NS,Indo Thai Securities Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+INDOUS,INDOUS.NS,Indo Us Bio-Tech Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+INDOWIND,INDOWIND.NS,Indowind Energy Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+INDRAMEDCO,INDRAMEDCO.NS,Indraprastha Medical Corporation Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+INDSWFTLAB,INDSWFTLAB.NS,Ind-Swift Laboratories Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+INDTERRAIN,INDTERRAIN.NS,Indian Terrain Fashions Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+INDUSINDBK,INDUSINDBK.NS,IndusInd Bank Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+INDUSTOWER,INDUSTOWER.NS,Indus Towers Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+INFIBEAM,INFIBEAM.NS,Infibeam Avenues Limited,Technology,NIFTY IT,^CNXIT
+INFOBEAN,INFOBEAN.NS,InfoBeans Technologies Limited,Technology,NIFTY IT,^CNXIT
+INFOMEDIA,INFOMEDIA.NS,Infomedia Press Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+INFY,INFY.NS,Infosys Limited,Technology,NIFTY IT,^CNXIT
+INGERRAND,INGERRAND.NS,Ingersoll-Rand (India) Limited,Industrials,NIFTY INFRA,^CNXINFRA
+INNOVACAP,INNOVACAP.NS,Innova Captab Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+INNOVANA,INNOVANA.NS,INNOVANA,Technology,NIFTY IT,^CNXIT
+INOXGREEN,INOXGREEN.NS,Inox Green Energy Services Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+INOXINDIA,INOXINDIA.NS,INOX India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+INOXWIND,INOXWIND.NS,Inox Wind Limited,Industrials,NIFTY INFRA,^CNXINFRA
+INSECTICID,INSECTICID.NS,Insecticides (India) Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+INSPIRISYS,INSPIRISYS.NS,Inspirisys Solutions Limited,Technology,NIFTY IT,^CNXIT
+INTELLECT,INTELLECT.NS,Intellect Design Arena Limited,Technology,NIFTY IT,^CNXIT
+INTENTECH,INTENTECH.NS,Intense Technologies Limited,Technology,NIFTY IT,^CNXIT
+INTERARCH,INTERARCH.NS,Interarch Building Solutions Limited,Industrials,NIFTY INFRA,^CNXINFRA
+INTLCONV,INTLCONV.NS,International Conveyors Limited,Industrials,NIFTY INFRA,^CNXINFRA
+INVENTURE,INVENTURE.NS,Inventure Growth & Securities Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+IOB,IOB.NS,Indian Overseas Bank,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+IOC,IOC.NS,Indian Oil Corporation Limited,Energy,NIFTY ENERGY,^CNXENERGY
+IOLCP,IOLCP.NS,IOL Chemicals and Pharmaceuticals Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+IONEXCHANG,IONEXCHANG.NS,Ion Exchange (India) Limited,Industrials,NIFTY INFRA,^CNXINFRA
+IPCALAB,IPCALAB.NS,Ipca Laboratories Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+IPL,IPL.NS,India Pesticides Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+IRB,IRB.NS,IRB Infrastructure Developers Limited,Industrials,NIFTY INFRA,^CNXINFRA
+IRCON,IRCON.NS,Ircon International Limited,Industrials,NIFTY INFRA,^CNXINFRA
+IRCTC,IRCTC.NS,Indian Railway Catering & Tourism Corporation Limited,Industrials,NIFTY INFRA,^CNXINFRA
+IREDA,IREDA.NS,Indian Renewable Energy Development Agency Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+IRFC,IRFC.NS,Indian Railway Finance Corporation Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+IRIS,IRIS.NS,IRIS RegTech Solutions Limited,Technology,NIFTY IT,^CNXIT
+IRISDOREME,IRISDOREME.NS,Iris Clothings Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+IRMENERGY,IRMENERGY.NS,IRM Energy Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+ISFT,ISFT.NS,IntraSoft Technologies Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ISGEC,ISGEC.NS,Isgec Heavy Engineering Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ISHANCH,ISHANCH.NS,Ishan Dyes and Chemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ITC,ITC.NS,ITC Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+ITCHOTELS,ITCHOTELS.NS,ITCHOTELS,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ITDC,ITDC.NS,India Tourism Development Corporation Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ITI,ITI.NS,ITI Limited,Technology,NIFTY IT,^CNXIT
+IVALUE,IVALUE.NS,iValue Infosolutions Limited,Technology,NIFTY IT,^CNXIT
+IVC,IVC.NS,IL&FS Investment Managers Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+IVP,IVP.NS,IVP Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+IXIGO,IXIGO.NS,IXIGO,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+IZMO,IZMO.NS,IZMO Limited,Technology,NIFTY IT,^CNXIT
+J&KBANK,J&KBANK.NS,Jammu and Kashmir Bank Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+JAGRAN,JAGRAN.NS,Jagran Prakashan Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+JAGSNPHARM,JAGSNPHARM.NS,Jagsonpal Pharmaceuticals Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+JAIBALAJI,JAIBALAJI.NS,Jai Balaji Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+JAICORPLTD,JAICORPLTD.NS,Jai Corp Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+JAINREC,JAINREC.NS,JAINREC,Basic Materials,NIFTY METAL,^CNXMETAL
+JAIPURKURT,JAIPURKURT.NS,Nandani Creation Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+JAMNAAUTO,JAMNAAUTO.NS,Jamna Auto Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+JARO,JARO.NS,JARO,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+JASH,JASH.NS,Jash Engineering Limited,Industrials,NIFTY INFRA,^CNXINFRA
+JAYAGROGN,JAYAGROGN.NS,Jayant Agro-Organics Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+JAYBARMARU,JAYBARMARU.NS,Jay Bharat Maruti Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+JAYKAY,JAYKAY.NS,Jaykay Enterprises Limited,Industrials,NIFTY INFRA,^CNXINFRA
+JAYNECOIND,JAYNECOIND.NS,Jayaswal Neco Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+JAYSREETEA,JAYSREETEA.NS,Jay Shree Tea & Industries Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+JBCHEPHARM,JBCHEPHARM.NS,J. B. Chemicals & Pharmaceuticals Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+JBMA,JBMA.NS,JBM Auto Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+JGCHEM,JGCHEM.NS,JGCHEM,Basic Materials,NIFTY METAL,^CNXMETAL
+JHS,JHS.NS,JHS Svendgaard Laboratories Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+JINDALPHOT,JINDALPHOT.NS,Jindal Photo Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+JINDALPOLY,JINDALPOLY.NS,Jindal Poly Films Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+JINDALSAW,JINDALSAW.NS,Jindal Saw Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+JINDALSTEL,JINDALSTEL.NS,Jindal Steel Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+JINDRILL,JINDRILL.NS,Jindal Drilling & Industries Limited,Energy,NIFTY ENERGY,^CNXENERGY
+JINDWORLD,JINDWORLD.NS,Jindal Worldwide Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+JIOFIN,JIOFIN.NS,Jio Financial Services Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+JISLDVREQS,JISLDVREQS.NS,Jain Irrigation Systems Limited,Industrials,NIFTY INFRA,^CNXINFRA
+JISLJALEQS,JISLJALEQS.NS,Jain Irrigation Systems Limited,Industrials,NIFTY INFRA,^CNXINFRA
+JITFINFRA,JITFINFRA.NS,JITF Infralogistics Limited,Industrials,NIFTY INFRA,^CNXINFRA
+JKCEMENT,JKCEMENT.NS,J.K. Cement Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+JKIL,JKIL.NS,J. Kumar Infraprojects Limited,Industrials,NIFTY INFRA,^CNXINFRA
+JKIPL,JKIPL.NS,JKIPL,Industrials,NIFTY INFRA,^CNXINFRA
+JKLAKSHMI,JKLAKSHMI.NS,JK Lakshmi Cement Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+JKPAPER,JKPAPER.NS,JK Paper Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+JKTYRE,JKTYRE.NS,JK Tyre & Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+JLHL,JLHL.NS,Jupiter Life Line Hospitals Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+JMA,JMA.NS,Jullundur Motor Agency (Delhi) Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+JMFINANCIL,JMFINANCIL.NS,JM Financial Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+JNKINDIA,JNKINDIA.NS,JNK India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+JOCIL,JOCIL.NS,Jocil Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+JPOLYINVST,JPOLYINVST.NS,Jindal Poly Investment and Finance Company Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+JPPOWER,JPPOWER.NS,Jaiprakash Power Ventures Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+JSFB,JSFB.NS,Jana Small Finance Bank Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+JSL,JSL.NS,Jindal Stainless Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+JSLL,JSLL.NS,JSLL,Healthcare,NIFTY PHARMA,^CNXPHARMA
+JSWCEMENT,JSWCEMENT.NS,JSWCEMENT,Basic Materials,NIFTY METAL,^CNXMETAL
+JSWENERGY,JSWENERGY.NS,JSW Energy Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+JSWHL,JSWHL.NS,JSW Holdings Limited,Industrials,NIFTY INFRA,^CNXINFRA
+JSWINFRA,JSWINFRA.NS,JSW Infrastructure Limited,Industrials,NIFTY INFRA,^CNXINFRA
+JSWSTEEL,JSWSTEEL.NS,JSW Steel Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+JTEKTINDIA,JTEKTINDIA.NS,JTEKT India Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+JTLIND,JTLIND.NS,JTL Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+JUBLCPL,JUBLCPL.NS,Jubilant Agri and Consumer Products Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+JUBLFOOD,JUBLFOOD.NS,Jubilant FoodWorks Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+JUBLINGREA,JUBLINGREA.NS,Jubilant Ingrevia Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+JUBLPHARMA,JUBLPHARMA.NS,Jubilant Pharmova Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+JUNIPER,JUNIPER.NS,Juniper Hotels Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+JUSTDIAL,JUSTDIAL.NS,Just Dial Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+JWL,JWL.NS,Jupiter Wagons Limited,Industrials,NIFTY INFRA,^CNXINFRA
+JYOTHYLAB,JYOTHYLAB.NS,Jyothy Labs Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+JYOTICNC,JYOTICNC.NS,Jyoti CNC Automation Limited,Industrials,NIFTY INFRA,^CNXINFRA
+JYOTISTRUC,JYOTISTRUC.NS,Jyoti Structures Limited,Industrials,NIFTY INFRA,^CNXINFRA
+KABRAEXTRU,KABRAEXTRU.NS,Kabra Extrusiontechnik Limited,Industrials,NIFTY INFRA,^CNXINFRA
+KAJARIACER,KAJARIACER.NS,Kajaria Ceramics Limited,Industrials,NIFTY INFRA,^CNXINFRA
+KAKATCEM,KAKATCEM.NS,Kakatiya Cement Sugar and Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+KALAMANDIR,KALAMANDIR.NS,Sai Silks (Kalamandir) Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+KALPATARU,KALPATARU.NS,KALPATARU,Real Estate,NIFTY REALTY,^CNXREALTY
+KALYANIFRG,KALYANIFRG.NS,Kalyani Forge Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+KALYANKJIL,KALYANKJIL.NS,Kalyan Jewellers India Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+KAMATHOTEL,KAMATHOTEL.NS,Kamat Hotels (India) Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+KAMDHENU,KAMDHENU.NS,Kamdhenu Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+KAMOPAINTS,KAMOPAINTS.NS,Kamdhenu Ventures Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+KANANIIND,KANANIIND.NS,Kanani Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+KANORICHEM,KANORICHEM.NS,Kanoria Chemicals & Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+KANPRPLA,KANPRPLA.NS,Kanpur Plastipack Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+KANSAINER,KANSAINER.NS,Kansai Nerolac Paints Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+KAPSTON,KAPSTON.NS,Kapston Services Limited,Industrials,NIFTY INFRA,^CNXINFRA
+KARMAENG,KARMAENG.NS,Karma Energy Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+KARURVYSYA,KARURVYSYA.NS,The Karur Vysya Bank Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+KAUSHALYA,KAUSHALYA.NS,Kaushalya Infrastructure Development Corporation Limited,Industrials,NIFTY INFRA,^CNXINFRA
+KAYA,KAYA.NS,Kaya Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+KAYNES,KAYNES.NS,Kaynes Technology India Limited,Technology,NIFTY IT,^CNXIT
+KCP,KCP.NS,The KCP Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+KCPSUGIND,KCPSUGIND.NS,K.C.P. Sugar and Industries Corporation Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+KDDL,KDDL.NS,KDDL Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+KEC,KEC.NS,KEC International Limited,Industrials,NIFTY INFRA,^CNXINFRA
+KECL,KECL.NS,Kirloskar Electric Company Limited,Industrials,NIFTY INFRA,^CNXINFRA
+KEEPLEARN,KEEPLEARN.NS,DSJ Keep Learning Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+KEI,KEI.NS,KEI Industries Limited,Industrials,NIFTY INFRA,^CNXINFRA
+KELLTONTEC,KELLTONTEC.NS,Kellton Tech Solutions Limited,Technology,NIFTY IT,^CNXIT
+KERNEX,KERNEX.NS,Kernex Microsystems (India) Limited,Technology,NIFTY IT,^CNXIT
+KEYFINSERV,KEYFINSERV.NS,Keynote Financial Services Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+KFINTECH,KFINTECH.NS,KFin Technologies Limited,Technology,NIFTY IT,^CNXIT
+KHADIM,KHADIM.NS,Khadim India Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+KHAICHEM,KHAICHEM.NS,Khaitan Chemicals and Fertilizers Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+KHAITANLTD,KHAITANLTD.NS,Khaitan (India) Limited,Industrials,NIFTY INFRA,^CNXINFRA
+KHANDSE,KHANDSE.NS,Khandwala Securities Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+KICL,KICL.NS,Kalyani Investment Company Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+KILITCH,KILITCH.NS,Kilitch Drugs (India) Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+KIMS,KIMS.NS,Krishna Institute of Medical Sciences Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+KINGFA,KINGFA.NS,Kingfa Science & Technology (India) Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+KIOCL,KIOCL.NS,KIOCL Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+KIRIINDUS,KIRIINDUS.NS,Kiri Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+KIRLOSBROS,KIRLOSBROS.NS,Kirloskar Brothers Limited,Industrials,NIFTY INFRA,^CNXINFRA
+KIRLOSENG,KIRLOSENG.NS,Kirloskar Oil Engines Limited,Industrials,NIFTY INFRA,^CNXINFRA
+KIRLOSIND,KIRLOSIND.NS,Kirloskar Industries Limited,Industrials,NIFTY INFRA,^CNXINFRA
+KIRLPNU,KIRLPNU.NS,Kirloskar Pneumatic Company Limited,Industrials,NIFTY INFRA,^CNXINFRA
+KITEX,KITEX.NS,Kitex Garments Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+KKCL,KKCL.NS,Kewal Kiran Clothing Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+KMEW,KMEW.NS,Knowledge Marine & Engineering Works Limited,Industrials,NIFTY INFRA,^CNXINFRA
+KMSUGAR,KMSUGAR.NS,K.M. Sugar Mills Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+KNAGRI,KNAGRI.NS,KNAGRI,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+KNRCON,KNRCON.NS,KNR Constructions Limited,Industrials,NIFTY INFRA,^CNXINFRA
+KOHINOOR,KOHINOOR.NS,Kohinoor Foods Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+KOKUYOCMLN,KOKUYOCMLN.NS,Kokuyo Camlin Limited,Industrials,NIFTY INFRA,^CNXINFRA
+KOLTEPATIL,KOLTEPATIL.NS,Kolte-Patil Developers Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+KOPRAN,KOPRAN.NS,Kopran Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+KOTAKBANK,KOTAKBANK.NS,Kotak Mahindra Bank Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+KOTARISUG,KOTARISUG.NS,Kothari Sugars and Chemicals Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+KOTHARIPET,KOTHARIPET.NS,Kothari Petrochemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+KOTHARIPRO,KOTHARIPRO.NS,Kothari Products Limited,Industrials,NIFTY INFRA,^CNXINFRA
+KPEL,KPEL.NS,K.P. Energy Limited,Industrials,NIFTY INFRA,^CNXINFRA
+KPIGREEN,KPIGREEN.NS,KPI Green Energy Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+KPIL,KPIL.NS,Kalpataru Projects International Limited,Industrials,NIFTY INFRA,^CNXINFRA
+KPITTECH,KPITTECH.NS,KPIT Technologies Limited,Technology,NIFTY IT,^CNXIT
+KPRMILL,KPRMILL.NS,K.P.R. Mill Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+KRBL,KRBL.NS,KRBL Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+KREBSBIO,KREBSBIO.NS,Krebs Biochemicals & Industries Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+KRIDHANINF,KRIDHANINF.NS,Kridhan Infra Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+KRISHANA,KRISHANA.NS,Krishana Phoschem Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+KRISHIVAL,KRISHIVAL.NS,KRISHIVAL,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+KRISHNADEF,KRISHNADEF.NS,KRISHNADEF,UNKNOWN,UNKNOWN,NO_INDEX
+KRITI,KRITI.NS,Kriti Industries (India) Limited,Industrials,NIFTY INFRA,^CNXINFRA
+KRITIKA,KRITIKA.NS,Kritika Wires Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+KRITINUT,KRITINUT.NS,Kriti Nutrients Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+KRN,KRN.NS,KRN,Technology,NIFTY IT,^CNXIT
+KRONOX,KRONOX.NS,KRONOX,Basic Materials,NIFTY METAL,^CNXMETAL
+KROSS,KROSS.NS,KROSS,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+KRSNAA,KRSNAA.NS,Krsnaa Diagnostics Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+KRYSTAL,KRYSTAL.NS,KRYSTAL,Industrials,NIFTY INFRA,^CNXINFRA
+KSB,KSB.NS,KSB Limited,Industrials,NIFTY INFRA,^CNXINFRA
+KSCL,KSCL.NS,Kaveri Seed Company Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+KSHINTL,KSHINTL.NS,KSHINTL,Industrials,NIFTY INFRA,^CNXINFRA
+KSHITIJPOL,KSHITIJPOL.NS,Kshitij Polyline Limited,Industrials,NIFTY INFRA,^CNXINFRA
+KSL,KSL.NS,Kalyani Steels Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+KSOLVES,KSOLVES.NS,Ksolves India Limited,Technology,NIFTY IT,^CNXIT
+KSR,KSR.NS,KSR Footwear Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+KTKBANK,KTKBANK.NS,The Karnataka Bank Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+KUANTUM,KUANTUM.NS,Kuantum Papers Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+LAGNAM,LAGNAM.NS,Lagnam Spintex Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+LAL,LAL.NS,Lorenzini Apparels Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+LALPATHLAB,LALPATHLAB.NS,Dr. Lal PathLabs Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+LAMBODHARA,LAMBODHARA.NS,Lambodhara Textiles Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+LANDMARK,LANDMARK.NS,Landmark Cars Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+LAOPALA,LAOPALA.NS,La Opala RG Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+LASA,LASA.NS,Lasa Supergenerics Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+LATENTVIEW,LATENTVIEW.NS,Latent View Analytics Limited,Industrials,NIFTY INFRA,^CNXINFRA
+LAURUSLABS,LAURUSLABS.NS,Laurus Labs Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+LAXMICOT,LAXMICOT.NS,Laxmi Cotspin Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+LAXMIDENTL,LAXMIDENTL.NS,LAXMIDENTL,Healthcare,NIFTY PHARMA,^CNXPHARMA
+LAXMIINDIA,LAXMIINDIA.NS,LAXMIINDIA,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+LEMERITE,LEMERITE.NS,LEMERITE,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+LEMONTREE,LEMONTREE.NS,Lemon Tree Hotels Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+LENSKART,LENSKART.NS,LENSKART,Healthcare,NIFTY PHARMA,^CNXPHARMA
+LEXUS,LEXUS.NS,Lexus Granito (India) Limited,Industrials,NIFTY INFRA,^CNXINFRA
+LFIC,LFIC.NS,Lakshmi Finance & Industrial Corporation Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+LGBBROSLTD,LGBBROSLTD.NS,L.G. Balakrishnan & Bros Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+LGEINDIA,LGEINDIA.NS,LGEINDIA,Technology,NIFTY IT,^CNXIT
+LGHL,LGHL.NS,LGHL,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+LIBAS,LIBAS.NS,Libas Consumer Products Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+LIBERTSHOE,LIBERTSHOE.NS,Liberty Shoes Ltd.,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+LICHSGFIN,LICHSGFIN.NS,LIC Housing Finance Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+LICI,LICI.NS,Life Insurance Corporation of India,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+LIKHITHA,LIKHITHA.NS,Likhitha Infrastructure Limited,Energy,NIFTY ENERGY,^CNXENERGY
+LINC,LINC.NS,Linc Limited,Industrials,NIFTY INFRA,^CNXINFRA
+LINCOLN,LINCOLN.NS,Lincoln Pharmaceuticals Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+LINDEINDIA,LINDEINDIA.NS,Linde India Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+LLOYDSENGG,LLOYDSENGG.NS,Lloyds Engineering Works Limited,Industrials,NIFTY INFRA,^CNXINFRA
+LLOYDSENT,LLOYDSENT.NS,Lloyds Enterprises Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+LLOYDSME,LLOYDSME.NS,Lloyds Metals and Energy Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+LMW,LMW.NS,LMW Limited,Industrials,NIFTY INFRA,^CNXINFRA
+LODHA,LODHA.NS,Lodha Developers Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+LOKESHMACH,LOKESHMACH.NS,Lokesh Machines Limited,Industrials,NIFTY INFRA,^CNXINFRA
+LORDSCHLO,LORDSCHLO.NS,Lords Chloro Alkali Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+LOTUSDEV,LOTUSDEV.NS,LOTUSDEV,Industrials,NIFTY INFRA,^CNXINFRA
+LOTUSEYE,LOTUSEYE.NS,Lotus Eye Hospital and Institute Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+LOVABLE,LOVABLE.NS,Lovable Lingerie Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+LOYALTEX,LOYALTEX.NS,Loyal Textile Mills Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+LPDC,LPDC.NS,Landmark Property Development Company Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+LT,LT.NS,Larsen & Toubro Limited,Industrials,NIFTY INFRA,^CNXINFRA
+LTF,LTF.NS,L&T Finance Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+LTFOODS,LTFOODS.NS,LT Foods Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+LTIM,LTIM.NS,LTIMindtree Limited,Technology,NIFTY IT,^CNXIT
+LTTS,LTTS.NS,L&T Technology Services Limited,Technology,NIFTY IT,^CNXIT
+LUMAXIND,LUMAXIND.NS,Lumax Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+LUMAXTECH,LUMAXTECH.NS,Lumax Auto Technologies Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+LUPIN,LUPIN.NS,Lupin Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+LUXIND,LUXIND.NS,Lux Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+LXCHEM,LXCHEM.NS,Laxmi Organic Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+LYKALABS,LYKALABS.NS,Lyka Labs Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+LYPSAGEMS,LYPSAGEMS.NS,Lypsa Gems & Jewellery Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+M&M,M&M.NS,Mahindra & Mahindra Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+M&MFIN,M&MFIN.NS,Mahindra & Mahindra Financial Services Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+MACPOWER,MACPOWER.NS,Macpower CNC Machines Limited,Industrials,NIFTY INFRA,^CNXINFRA
+MADHAV,MADHAV.NS,Madhav Marbles and Granites Limited,Industrials,NIFTY INFRA,^CNXINFRA
+MADHUCON,MADHUCON.NS,Madhucon Projects Limited,Industrials,NIFTY INFRA,^CNXINFRA
+MADRASFERT,MADRASFERT.NS,Madras Fertilizers Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+MAGADSUGAR,MAGADSUGAR.NS,Magadh Sugar & Energy Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+MAGNUM,MAGNUM.NS,Magnum Ventures Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+MAHABANK,MAHABANK.NS,Bank of Maharashtra,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+MAHAPEXLTD,MAHAPEXLTD.NS,Maha Rashtra Apex Corporation Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+MAHEPC,MAHEPC.NS,Mahindra EPC Irrigation Limited,Industrials,NIFTY INFRA,^CNXINFRA
+MAHESHWARI,MAHESHWARI.NS,Maheshwari Logistics Limited,Industrials,NIFTY INFRA,^CNXINFRA
+MAHLIFE,MAHLIFE.NS,Mahindra Lifespace Developers Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+MAHLOG,MAHLOG.NS,Mahindra Logistics Limited,Industrials,NIFTY INFRA,^CNXINFRA
+MAHSCOOTER,MAHSCOOTER.NS,Maharashtra Scooters Ltd.,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+MAHSEAMLES,MAHSEAMLES.NS,Maharashtra Seamless Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+MAITHANALL,MAITHANALL.NS,Maithan Alloys Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+MALLCOM,MALLCOM.NS,Mallcom (India) Limited,Industrials,NIFTY INFRA,^CNXINFRA
+MALUPAPER,MALUPAPER.NS,Malu Paper Mills Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+MAMATA,MAMATA.NS,MAMATA,Industrials,NIFTY INFRA,^CNXINFRA
+MANAKCOAT,MANAKCOAT.NS,Manaksia Coated Metals & Industries Limited,Industrials,NIFTY INFRA,^CNXINFRA
+MANAKSIA,MANAKSIA.NS,Manaksia Limited,Industrials,NIFTY INFRA,^CNXINFRA
+MANAKSTEEL,MANAKSTEEL.NS,Manaksia Steels Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+MANALIPETC,MANALIPETC.NS,Manali Petrochemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+MANAPPURAM,MANAPPURAM.NS,Manappuram Finance Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+MANBA,MANBA.NS,MANBA,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+MANCREDIT,MANCREDIT.NS,Mangal Credit and Fincorp Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+MANGALAM,MANGALAM.NS,Mangalam Drugs & Organics Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+MANGLMCEM,MANGLMCEM.NS,Mangalam Cement Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+MANINDS,MANINDS.NS,Man Industries (India) Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+MANINFRA,MANINFRA.NS,Man Infraconstruction Limited,Industrials,NIFTY INFRA,^CNXINFRA
+MANKIND,MANKIND.NS,Mankind Pharma Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+MANORAMA,MANORAMA.NS,Manorama Industries Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+MANORG,MANORG.NS,Mangalam Organics Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+MANUGRAPH,MANUGRAPH.NS,Manugraph India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+MANYAVAR,MANYAVAR.NS,Vedant Fashions Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+MAPMYINDIA,MAPMYINDIA.NS,C. E. Info Systems Limited,Technology,NIFTY IT,^CNXIT
+MARALOVER,MARALOVER.NS,Maral Overseas Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+MARATHON,MARATHON.NS,Marathon Nextgen Realty Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+MARICO,MARICO.NS,Marico Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+MARINE,MARINE.NS,Marine Electricals (India) Limited,Industrials,NIFTY INFRA,^CNXINFRA
+MARKOLINES,MARKOLINES.NS,MARKOLINES,Industrials,NIFTY INFRA,^CNXINFRA
+MARKSANS,MARKSANS.NS,Marksans Pharma Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+MARUTI,MARUTI.NS,Maruti Suzuki India Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+MASFIN,MASFIN.NS,MAS Financial Services Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+MASTEK,MASTEK.NS,Mastek Limited,Technology,NIFTY IT,^CNXIT
+MASTERTR,MASTERTR.NS,Master Trust Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+MATRIMONY,MATRIMONY.NS,Matrimony.com Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+MAWANASUG,MAWANASUG.NS,Mawana Sugars Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+MAXESTATES,MAXESTATES.NS,MAXESTATES,Real Estate,NIFTY REALTY,^CNXREALTY
+MAXHEALTH,MAXHEALTH.NS,Max Healthcare Institute Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+MAXIND,MAXIND.NS,Max India Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+MAYURUNIQ,MAYURUNIQ.NS,Mayur Uniquoters Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+MAZDA,MAZDA.NS,Mazda Limited,Industrials,NIFTY INFRA,^CNXINFRA
+MAZDOCK,MAZDOCK.NS,Mazagon Dock Shipbuilders Limited,Industrials,NIFTY INFRA,^CNXINFRA
+MBAPL,MBAPL.NS,Madhya Bharat Agro Products Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+MBEL,MBEL.NS,MBEL,Industrials,NIFTY INFRA,^CNXINFRA
+MBLINFRA,MBLINFRA.NS,MBL Infrastructures Limited,Industrials,NIFTY INFRA,^CNXINFRA
+MCL,MCL.NS,Madhav Copper Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+MCLOUD,MCLOUD.NS,Magellanic Cloud Limited,Technology,NIFTY IT,^CNXIT
+MCX,MCX.NS,Multi Commodity Exchange of India Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+MEDANTA,MEDANTA.NS,Global Health Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+MEDIASSIST,MEDIASSIST.NS,MEDIASSIST,Healthcare,NIFTY PHARMA,^CNXPHARMA
+MEDICAMEQ,MEDICAMEQ.NS,Medicamen Biotech Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+MEDICO,MEDICO.NS,Medico Remedies Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+MEDPLUS,MEDPLUS.NS,MedPlus Health Services Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+MEESHO,MEESHO.NS,MEESHO,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+MEIL,MEIL.NS,MEIL,Industrials,NIFTY INFRA,^CNXINFRA
+MENONBE,MENONBE.NS,Menon Bearings Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+METROBRAND,METROBRAND.NS,Metro Brands Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+METROPOLIS,METROPOLIS.NS,Metropolis Healthcare Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+MFML,MFML.NS,Mahalaxmi Fabric Mills Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+MFSL,MFSL.NS,Max Financial Services Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+MGEL,MGEL.NS,Mangalam Global Enterprise Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+MGL,MGL.NS,Mahanagar Gas Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+MHLXMIRU,MHLXMIRU.NS,Mahalaxmi Rubtech Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+MHRIL,MHRIL.NS,Mahindra Holidays & Resorts India Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+MICEL,MICEL.NS,MIC Electronics Limited,Technology,NIFTY IT,^CNXIT
+MIDHANI,MIDHANI.NS,Mishra Dhatu Nigam Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+MIDWESTLTD,MIDWESTLTD.NS,MIDWESTLTD,Basic Materials,NIFTY METAL,^CNXMETAL
+MINDACORP,MINDACORP.NS,Minda Corporation Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+MINDTECK,MINDTECK.NS,Mindteck (India) Limited,Technology,NIFTY IT,^CNXIT
+MIRCELECTR,MIRCELECTR.NS,MIRC Electronics Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+MIRZAINT,MIRZAINT.NS,Mirza International Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+MITCON,MITCON.NS,MITCON Consultancy & Engineering Services Limited,Industrials,NIFTY INFRA,^CNXINFRA
+MITTAL,MITTAL.NS,Mittal Life Style Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+MKPL,MKPL.NS,M. K. Proteins Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+MMFL,MMFL.NS,M M Forgings Limited,Industrials,NIFTY INFRA,^CNXINFRA
+MMP,MMP.NS,MMP Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+MMTC,MMTC.NS,MMTC Limited,Industrials,NIFTY INFRA,^CNXINFRA
+MOBIKWIK,MOBIKWIK.NS,MOBIKWIK,Technology,NIFTY IT,^CNXIT
+MODINATUR,MODINATUR.NS,Modi Naturals Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+MODIRUBBER,MODIRUBBER.NS,Modi Rubber Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+MODIS,MODIS.NS,Modi's Navnirman Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+MODISONLTD,MODISONLTD.NS,Modison Limited,Industrials,NIFTY INFRA,^CNXINFRA
+MODTHREAD,MODTHREAD.NS,Modern Threads (India) Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+MOHITIND,MOHITIND.NS,Mohit Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+MOIL,MOIL.NS,MOIL Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+MOKSH,MOKSH.NS,Moksh Ornaments Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+MOL,MOL.NS,Meghmani Organics Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+MOLDTECH,MOLDTECH.NS,Mold-Tek Technologies Limited,Industrials,NIFTY INFRA,^CNXINFRA
+MOLDTKPAC,MOLDTKPAC.NS,Mold-Tek Packaging Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+MONARCH,MONARCH.NS,Monarch Networth Capital Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+MONEYBOXX,MONEYBOXX.NS,Moneyboxx Finance Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+MONTECARLO,MONTECARLO.NS,Monte Carlo Fashions Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+MOREPENLAB,MOREPENLAB.NS,Morepen Laboratories Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+MOSCHIP,MOSCHIP.NS,MOSCHIP,Technology,NIFTY IT,^CNXIT
+MOTHERSON,MOTHERSON.NS,Samvardhana Motherson International Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+MOTILALOFS,MOTILALOFS.NS,Motilal Oswal Financial Services Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+MOTISONS,MOTISONS.NS,MOTISONS,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+MOTOGENFIN,MOTOGENFIN.NS,The Motor & General Finance Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+MPHASIS,MPHASIS.NS,Mphasis Limited,Technology,NIFTY IT,^CNXIT
+MPSLTD,MPSLTD.NS,MPS Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+MRF,MRF.NS,MRF Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+MRPL,MRPL.NS,Mangalore Refinery and Petrochemicals Limited,Energy,NIFTY ENERGY,^CNXENERGY
+MSPL,MSPL.NS,MSP Steel & Power Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+MSTCLTD,MSTCLTD.NS,MSTC Limited,Industrials,NIFTY INFRA,^CNXINFRA
+MSUMI,MSUMI.NS,Motherson Sumi Wiring India Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+MTARTECH,MTARTECH.NS,MTAR Technologies Limited,Industrials,NIFTY INFRA,^CNXINFRA
+MTNL,MTNL.NS,Mahanagar Telephone Nigam Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+MUFIN,MUFIN.NS,Mufin Green Finance Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+MUFTI,MUFTI.NS,MUFTI,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+MUKANDLTD,MUKANDLTD.NS,Mukand Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+MUKKA,MUKKA.NS,Mukka Proteins Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+MUKTAARTS,MUKTAARTS.NS,Mukta Arts Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+MUNJALAU,MUNJALAU.NS,Munjal Auto Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+MUNJALSHOW,MUNJALSHOW.NS,Munjal Showa Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+MURUDCERA,MURUDCERA.NS,Murudeshwar Ceramics Ltd.,Industrials,NIFTY INFRA,^CNXINFRA
+MUTHOOTCAP,MUTHOOTCAP.NS,Muthoot Capital Services Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+MUTHOOTFIN,MUTHOOTFIN.NS,Muthoot Finance Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+MUTHOOTMF,MUTHOOTMF.NS,MUTHOOTMF,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+MVGJL,MVGJL.NS,Manoj Vaibhav Gems 'N' Jewellers Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+MWL,MWL.NS,MWL,Basic Materials,NIFTY METAL,^CNXMETAL
+NAGAFERT,NAGAFERT.NS,Nagarjuna Fertilizers and Chemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+NAGREEKEXP,NAGREEKEXP.NS,Nagreeka Exports Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+NAHARCAP,NAHARCAP.NS,Nahar Capital and Financial Services Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+NAHARINDUS,NAHARINDUS.NS,Nahar Industrial Enterprises Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+NAHARPOLY,NAHARPOLY.NS,Nahar Poly Films Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+NAHARSPING,NAHARSPING.NS,Nahar Spinning Mills Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+NAM-INDIA,NAM-INDIA.NS,Nippon Life India Asset Management Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+NATCAPSUQ,NATCAPSUQ.NS,Natural Capsules Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+NATCOPHARM,NATCOPHARM.NS,NATCO Pharma Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+NATHBIOGEN,NATHBIOGEN.NS,Nath Bio-Genes (India) Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+NATIONALUM,NATIONALUM.NS,National Aluminium Company Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+NAUKRI,NAUKRI.NS,Info Edge (India) Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+NAVA,NAVA.NS,Nava Limited,Industrials,NIFTY INFRA,^CNXINFRA
+NAVINFLUOR,NAVINFLUOR.NS,Navin Fluorine International Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+NAVKARCORP,NAVKARCORP.NS,Navkar Corporation Limited,Industrials,NIFTY INFRA,^CNXINFRA
+NAVKARURB,NAVKARURB.NS,Navkar Urbanstructure Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+NAVNETEDUL,NAVNETEDUL.NS,Navneet Education Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+NAZARA,NAZARA.NS,Nazara Technologies Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+NBCC,NBCC.NS,NBCC (India) Limited,Industrials,NIFTY INFRA,^CNXINFRA
+NBIFIN,NBIFIN.NS,N.B.I. Industrial Finance Company Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+NCC,NCC.NS,NCC Limited,Industrials,NIFTY INFRA,^CNXINFRA
+NCLIND,NCLIND.NS,NCL Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+NDGL,NDGL.NS,Naga Dhunseri Group Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+NDL,NDL.NS,Nandan Denim Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+NDLVENTURE,NDLVENTURE.NS,NDL Ventures Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+NDRAUTO,NDRAUTO.NS,NDR Auto Components Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+NDTV,NDTV.NS,New Delhi Television Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+NECCLTD,NECCLTD.NS,North Eastern Carrying Corporation Limited,Industrials,NIFTY INFRA,^CNXINFRA
+NELCAST,NELCAST.NS,Nelcast Limited,Industrials,NIFTY INFRA,^CNXINFRA
+NELCO,NELCO.NS,Nelco Limited,Technology,NIFTY IT,^CNXIT
+NEOGEN,NEOGEN.NS,Neogen Chemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+NEPHROPLUS,NEPHROPLUS.NS,NEPHROPLUS,Healthcare,NIFTY PHARMA,^CNXPHARMA
+NESCO,NESCO.NS,Nesco Limited,Industrials,NIFTY INFRA,^CNXINFRA
+NESTLEIND,NESTLEIND.NS,Nestlé India Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+NETWEB,NETWEB.NS,Netweb Technologies India Limited,Technology,NIFTY IT,^CNXIT
+NETWORK18,NETWORK18.NS,Network18 Media & Investments Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+NEULANDLAB,NEULANDLAB.NS,Neuland Laboratories Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+NEWGEN,NEWGEN.NS,Newgen Software Technologies Limited,Technology,NIFTY IT,^CNXIT
+NEXTMEDIA,NEXTMEDIA.NS,Next Mediaworks Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+NFL,NFL.NS,National Fertilizers Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+NGIL,NGIL.NS,Nakoda Group of Industries Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+NGLFINE,NGLFINE.NS,NGL Fine-Chem Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+NH,NH.NS,Narayana Hrudayalaya Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+NHPC,NHPC.NS,NHPC Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+NIACL,NIACL.NS,The New India Assurance Company Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+NIBE,NIBE.NS,Nibe Limited,Industrials,NIFTY INFRA,^CNXINFRA
+NIBL,NIBL.NS,NRB Industrial Bearings Limited,Industrials,NIFTY INFRA,^CNXINFRA
+NIITLTD,NIITLTD.NS,NIIT Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+NIITMTS,NIITMTS.NS,NIIT Learning Systems Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+NILAINFRA,NILAINFRA.NS,Nila Infrastructures Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+NILKAMAL,NILKAMAL.NS,Nilkamal Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+NINSYS,NINSYS.NS,NINtec Systems Limited,Technology,NIFTY IT,^CNXIT
+NIPPOBATRY,NIPPOBATRY.NS,Indo National Limited,Industrials,NIFTY INFRA,^CNXINFRA
+NIRAJ,NIRAJ.NS,Niraj Cement Structurals Limited,Industrials,NIFTY INFRA,^CNXINFRA
+NIRAJISPAT,NIRAJISPAT.NS,Niraj Ispat Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+NITCO,NITCO.NS,NITCO Limited,Industrials,NIFTY INFRA,^CNXINFRA
+NITINSPIN,NITINSPIN.NS,Nitin Spinners Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+NITIRAJ,NITIRAJ.NS,Nitiraj Engineers Limited,Technology,NIFTY IT,^CNXIT
+NIVABUPA,NIVABUPA.NS,Niva Bupa Health Insurance Company Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+NKIND,NKIND.NS,N.K Industries Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+NLCINDIA,NLCINDIA.NS,NLC India Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+NMDC,NMDC.NS,NMDC Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+NOCIL,NOCIL.NS,NOCIL Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+NOIDATOLL,NOIDATOLL.NS,Noida Toll Bridge Company Limited,Industrials,NIFTY INFRA,^CNXINFRA
+NORTHARC,NORTHARC.NS,Northern Arc Capital Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+NOVAAGRI,NOVAAGRI.NS,Nova Agritech Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+NPST,NPST.NS,NPST,Technology,NIFTY IT,^CNXIT
+NRAIL,NRAIL.NS,N R Agarwal Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+NRBBEARING,NRBBEARING.NS,NRB Bearings Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+NRL,NRL.NS,Nupur Recyclers Limited,Industrials,NIFTY INFRA,^CNXINFRA
+NSIL,NSIL.NS,Nalwa Sons Investments Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+NSLNISP,NSLNISP.NS,NMDC Steel Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+NTPC,NTPC.NS,NTPC Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+NTPCGREEN,NTPCGREEN.NS,NTPCGREEN,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+NUCLEUS,NUCLEUS.NS,Nucleus Software Exports Limited,Technology,NIFTY IT,^CNXIT
+NURECA,NURECA.NS,Nureca Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+NUVAMA,NUVAMA.NS,Nuvama Wealth Management Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+NUVOCO,NUVOCO.NS,Nuvoco Vistas Corporation Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+NYKAA,NYKAA.NS,FSN E-Commerce Ventures Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+OAL,OAL.NS,Oriental Aromatics Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+OBCL,OBCL.NS,Orissa Bengal Carrier Limited,Industrials,NIFTY INFRA,^CNXINFRA
+OBEROIRLTY,OBEROIRLTY.NS,Oberoi Realty Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+OCCLLTD,OCCLLTD.NS,OCCL Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ODIGMA,ODIGMA.NS,Odigma Consultancy Solutions Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+OFSS,OFSS.NS,Oracle Financial Services Software Limited,Technology,NIFTY IT,^CNXIT
+OIL,OIL.NS,Oil India Limited,Energy,NIFTY ENERGY,^CNXENERGY
+OILCOUNTUB,OILCOUNTUB.NS,Oil Country Tubular Limited,Energy,NIFTY ENERGY,^CNXENERGY
+OLAELEC,OLAELEC.NS,OLAELEC,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+OLECTRA,OLECTRA.NS,Olectra Greentech Limited,Industrials,NIFTY INFRA,^CNXINFRA
+OMAXAUTO,OMAXAUTO.NS,Omax Autos Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+OMAXE,OMAXE.NS,Omaxe Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+OMFREIGHT,OMFREIGHT.NS,OMFREIGHT,Industrials,NIFTY INFRA,^CNXINFRA
+OMINFRAL,OMINFRAL.NS,Om Infra Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ONEPOINT,ONEPOINT.NS,One Point One Solutions Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ONESOURCE,ONESOURCE.NS,ONESOURCE,Healthcare,NIFTY PHARMA,^CNXPHARMA
+ONGC,ONGC.NS,Oil and Natural Gas Corporation Limited,Energy,NIFTY ENERGY,^CNXENERGY
+ONMOBILE,ONMOBILE.NS,OnMobile Global Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+ONWARDTEC,ONWARDTEC.NS,Onward Technologies Limited,Technology,NIFTY IT,^CNXIT
+OPTIEMUS,OPTIEMUS.NS,Optiemus Infracom Limited,Technology,NIFTY IT,^CNXIT
+ORBTEXP,ORBTEXP.NS,Orbit Exports Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ORCHASP,ORCHASP.NS,Orchasp Limited,Technology,NIFTY IT,^CNXIT
+ORCHPHARMA,ORCHPHARMA.NS,Orchid Pharma Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+ORIENTALTL,ORIENTALTL.NS,Oriental Trimex Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ORIENTBELL,ORIENTBELL.NS,Orient Bell Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ORIENTCEM,ORIENTCEM.NS,Orient Cement Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ORIENTCER,ORIENTCER.NS,Orient Ceratech Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ORIENTELEC,ORIENTELEC.NS,Orient Electric Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ORIENTHOT,ORIENTHOT.NS,Oriental Hotels Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ORIENTLTD,ORIENTLTD.NS,Orient Press Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ORIENTPPR,ORIENTPPR.NS,Orient Paper & Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ORIENTTECH,ORIENTTECH.NS,ORIENTTECH,Technology,NIFTY IT,^CNXIT
+ORISSAMINE,ORISSAMINE.NS,The Orissa Minerals Development Company Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ORKLAINDIA,ORKLAINDIA.NS,ORKLAINDIA,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+OSIAHYPER,OSIAHYPER.NS,Osia Hyper Retail Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+OSWALAGRO,OSWALAGRO.NS,Oswal Agro Mills Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+OSWALGREEN,OSWALGREEN.NS,Oswal Greentech Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+OSWALPUMPS,OSWALPUMPS.NS,OSWALPUMPS,Industrials,NIFTY INFRA,^CNXINFRA
+OSWALSEEDS,OSWALSEEDS.NS,ShreeOswal Seeds and Chemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+PACEDIGITK,PACEDIGITK.NS,Pace Digitek Limited,Technology,NIFTY IT,^CNXIT
+PAGEIND,PAGEIND.NS,Page Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+PAISALO,PAISALO.NS,Paisalo Digital Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+PAKKA,PAKKA.NS,Pakka Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+PALASHSECU,PALASHSECU.NS,Palash Securities Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+PALREDTEC,PALREDTEC.NS,Palred Technologies Limited,Technology,NIFTY IT,^CNXIT
+PANACEABIO,PANACEABIO.NS,Panacea Biotec Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+PANAMAPET,PANAMAPET.NS,Panama Petrochem Limited,Energy,NIFTY ENERGY,^CNXENERGY
+PAR,PAR.NS,Par Drugs and Chemicals Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+PARACABLES,PARACABLES.NS,Paramount Communications Limited,Technology,NIFTY IT,^CNXIT
+PARADEEP,PARADEEP.NS,Paradeep Phosphates Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+PARAGMILK,PARAGMILK.NS,Parag Milk Foods Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+PARAS,PARAS.NS,Paras Defence and Space Technologies Limited,Industrials,NIFTY INFRA,^CNXINFRA
+PARASPETRO,PARASPETRO.NS,Paras Petrofils Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+PARKHOSPS,PARKHOSPS.NS,PARKHOSPS,Healthcare,NIFTY PHARMA,^CNXPHARMA
+PARKHOTELS,PARKHOTELS.NS,PARKHOTELS,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+PARSVNATH,PARSVNATH.NS,Parsvnath Developers Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+PASHUPATI,PASHUPATI.NS,Pashupati Cotspin Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+PASUPTAC,PASUPTAC.NS,Pasupati Acrylon Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+PATANJALI,PATANJALI.NS,Patanjali Foods Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+PATELENG,PATELENG.NS,Patel Engineering Limited,Industrials,NIFTY INFRA,^CNXINFRA
+PATELRMART,PATELRMART.NS,PATELRMART,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+PATINTLOG,PATINTLOG.NS,Patel Integrated Logistics Limited,Industrials,NIFTY INFRA,^CNXINFRA
+PAUSHAKLTD,PAUSHAKLTD.NS,Paushak Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+PAVNAIND,PAVNAIND.NS,Pavna Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+PAYTM,PAYTM.NS,One97 Communications Limited,Technology,NIFTY IT,^CNXIT
+PCBL,PCBL.NS,PCBL Chemical Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+PCJEWELLER,PCJEWELLER.NS,PC Jeweller Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+PDMJEPAPER,PDMJEPAPER.NS,Pudumjee Paper Products Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+PDSL,PDSL.NS,PDS Limited,Industrials,NIFTY INFRA,^CNXINFRA
+PEARLPOLY,PEARLPOLY.NS,Pearl Polymers Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+PENIND,PENIND.NS,Pennar Industries Limited,Industrials,NIFTY INFRA,^CNXINFRA
+PENINLAND,PENINLAND.NS,Peninsula Land Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+PERSISTENT,PERSISTENT.NS,Persistent Systems Limited,Technology,NIFTY IT,^CNXIT
+PETRONET,PETRONET.NS,Petronet LNG Limited,Energy,NIFTY ENERGY,^CNXENERGY
+PFC,PFC.NS,Power Finance Corporation Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+PFIZER,PFIZER.NS,Pfizer Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+PFOCUS,PFOCUS.NS,Prime Focus Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+PFS,PFS.NS,PTC India Financial Services Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+PGEL,PGEL.NS,PG Electroplast Limited,Technology,NIFTY IT,^CNXIT
+PGHH,PGHH.NS,Procter & Gamble Hygiene and Health Care Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+PGHL,PGHL.NS,Procter & Gamble Health Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+PGIL,PGIL.NS,Pearl Global Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+PHOENIXLTD,PHOENIXLTD.NS,The Phoenix Mills Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+PICCADIL,PICCADIL.NS,Piccadily Agro Industries Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+PIDILITIND,PIDILITIND.NS,Pidilite Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+PIGL,PIGL.NS,Power & Instrumental (Gujarat) Limited,Industrials,NIFTY INFRA,^CNXINFRA
+PIIND,PIIND.NS,PI Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+PILANIINVS,PILANIINVS.NS,Pilani Investment and Industries Corporation Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+PILITA,PILITA.NS,Pil Italica Lifestyle Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+PINELABS,PINELABS.NS,PINELABS,Technology,NIFTY IT,^CNXIT
+PIONEEREMB,PIONEEREMB.NS,Pioneer Embroideries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+PIRAMALFIN,PIRAMALFIN.NS,PIRAMALFIN,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+PITTIENG,PITTIENG.NS,Pitti Engineering Limited,Industrials,NIFTY INFRA,^CNXINFRA
+PIXTRANS,PIXTRANS.NS,PIX Transmissions Limited,Industrials,NIFTY INFRA,^CNXINFRA
+PKTEA,PKTEA.NS,The Peria Karamalai Tea and Produce Company Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+PLASTIBLEN,PLASTIBLEN.NS,Plastiblends India Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+PLATIND,PLATIND.NS,Platinum Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+PLAZACABLE,PLAZACABLE.NS,Plaza Wires Limited,Industrials,NIFTY INFRA,^CNXINFRA
+PNB,PNB.NS,Punjab National Bank,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+PNBGILTS,PNBGILTS.NS,PNB Gilts Ltd.,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+PNBHOUSING,PNBHOUSING.NS,PNB Housing Finance Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+PNC,PNC.NS,Pritish Nandy Communications Ltd,Communication Services,NIFTY MEDIA,^CNXMEDIA
+PNCINFRA,PNCINFRA.NS,PNC Infratech Limited,Industrials,NIFTY INFRA,^CNXINFRA
+PNGJL,PNGJL.NS,PNGJL,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+POCL,POCL.NS,Pondy Oxides And Chemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+PODDARMENT,PODDARMENT.NS,Poddar Pigments Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+POKARNA,POKARNA.NS,Pokarna Limited,Industrials,NIFTY INFRA,^CNXINFRA
+POLICYBZR,POLICYBZR.NS,PB Fintech Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+POLYCAB,POLYCAB.NS,Polycab India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+POLYMED,POLYMED.NS,Poly Medicure Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+POLYPLEX,POLYPLEX.NS,Polyplex Corporation Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+PONNIERODE,PONNIERODE.NS,Ponni Sugars (Erode) Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+POONAWALLA,POONAWALLA.NS,Poonawalla Fincorp Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+POWERGRID,POWERGRID.NS,Power Grid Corporation of India Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+POWERINDIA,POWERINDIA.NS,Hitachi Energy India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+POWERMECH,POWERMECH.NS,Power Mech Projects Limited,Industrials,NIFTY INFRA,^CNXINFRA
+PPAP,PPAP.NS,PPAP Automotive Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+PPL,PPL.NS,Prakash Pipes Limited,Industrials,NIFTY INFRA,^CNXINFRA
+PPLPHARMA,PPLPHARMA.NS,Piramal Pharma Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+PRABHA,PRABHA.NS,Prabha Energy Limited,Energy,NIFTY ENERGY,^CNXENERGY
+PRAJIND,PRAJIND.NS,Praj Industries Limited,Industrials,NIFTY INFRA,^CNXINFRA
+PRAKASH,PRAKASH.NS,Prakash Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+PRAKASHSTL,PRAKASHSTL.NS,Prakash Steelage Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+PRAXIS,PRAXIS.NS,Praxis Home Retail Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+PRECAM,PRECAM.NS,Precision Camshafts Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+PRECOT,PRECOT.NS,Precot Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+PRECWIRE,PRECWIRE.NS,Precision Wires India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+PREMEXPLN,PREMEXPLN.NS,Premier Explosives Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+PREMIERENE,PREMIERENE.NS,PREMIERENE,Technology,NIFTY IT,^CNXIT
+PREMIERPOL,PREMIERPOL.NS,Premier Polyfilm Ltd.,Basic Materials,NIFTY METAL,^CNXMETAL
+PRESTIGE,PRESTIGE.NS,Prestige Estates Projects Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+PRICOLLTD,PRICOLLTD.NS,Pricol Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+PRIMESECU,PRIMESECU.NS,Prime Securities Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+PRIMO,PRIMO.NS,Primo Chemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+PRINCEPIPE,PRINCEPIPE.NS,Prince Pipes and Fittings Limited,Industrials,NIFTY INFRA,^CNXINFRA
+PRITI,PRITI.NS,Priti International Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+PRITIKAUTO,PRITIKAUTO.NS,Pritika Auto Industries Limited,Industrials,NIFTY INFRA,^CNXINFRA
+PRIVISCL,PRIVISCL.NS,Privi Speciality Chemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+PROSTARM,PROSTARM.NS,PROSTARM,Industrials,NIFTY INFRA,^CNXINFRA
+PROTEAN,PROTEAN.NS,Protean eGov Technologies Limited,Technology,NIFTY IT,^CNXIT
+PRSMJOHNSN,PRSMJOHNSN.NS,Prism Johnson Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+PRUDENT,PRUDENT.NS,Prudent Corporate Advisory Services Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+PRUDMOULI,PRUDMOULI.NS,Prudential Sugar Corporation Ltd.,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+PSB,PSB.NS,Punjab & Sind Bank,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+PSPPROJECT,PSPPROJECT.NS,PSP Projects Limited,Industrials,NIFTY INFRA,^CNXINFRA
+PTC,PTC.NS,PTC India Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+PTCIL,PTCIL.NS,PTC Industries Limited,Industrials,NIFTY INFRA,^CNXINFRA
+PTL,PTL.NS,PTL Enterprises Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+PUNJABCHEM,PUNJABCHEM.NS,Punjab Chemicals and Crop Protection Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+PURVA,PURVA.NS,Puravankara Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+PVRINOX,PVRINOX.NS,PVR INOX Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+PVSL,PVSL.NS,Popular Vehicles and Services Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+PWL,PWL.NS,Physicswallah Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+PYRAMID,PYRAMID.NS,Pyramid Technoplast Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+QPOWER,QPOWER.NS,QPOWER,Industrials,NIFTY INFRA,^CNXINFRA
+QUADFUTURE,QUADFUTURE.NS,QUADFUTURE,Industrials,NIFTY INFRA,^CNXINFRA
+QUESS,QUESS.NS,Quess Corp Limited,Industrials,NIFTY INFRA,^CNXINFRA
+QUICKHEAL,QUICKHEAL.NS,Quick Heal Technologies Limited,Technology,NIFTY IT,^CNXIT
+RACE,RACE.NS,Race Eco Chain Limited,Industrials,NIFTY INFRA,^CNXINFRA
+RACLGEAR,RACLGEAR.NS,RACL Geartech Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+RADAAN,RADAAN.NS,Radaan Mediaworks India Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+RADHIKAJWE,RADHIKAJWE.NS,Radhika Jeweltech Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+RADIANTCMS,RADIANTCMS.NS,Radiant Cash Management Services Limited,Industrials,NIFTY INFRA,^CNXINFRA
+RADICO,RADICO.NS,Radico Khaitan Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+RADIOCITY,RADIOCITY.NS,Music Broadcast Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+RAILTEL,RAILTEL.NS,RailTel Corporation of India Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+RAIN,RAIN.NS,Rain Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+RAINBOW,RAINBOW.NS,Rainbow Children's Medicare Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+RAJMET,RAJMET.NS,Rajnandini Metal Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+RAJOOENG,RAJOOENG.NS,Rajoo Engineers Limited,Industrials,NIFTY INFRA,^CNXINFRA
+RAJRATAN,RAJRATAN.NS,Rajratan Global Wire Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+RAJSREESUG,RAJSREESUG.NS,Rajshree Sugars & Chemicals Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+RAJTV,RAJTV.NS,Raj Television Network Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+RALLIS,RALLIS.NS,Rallis India Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+RAMANEWS,RAMANEWS.NS,Shree Rama Newsprint Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+RAMAPHO,RAMAPHO.NS,Rama Phosphates Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+RAMASTEEL,RAMASTEEL.NS,Rama Steel Tubes Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+RAMCOCEM,RAMCOCEM.NS,The Ramco Cements Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+RAMCOIND,RAMCOIND.NS,Ramco Industries Limited,Industrials,NIFTY INFRA,^CNXINFRA
+RAMCOSYS,RAMCOSYS.NS,Ramco Systems Limited,Technology,NIFTY IT,^CNXIT
+RAMKY,RAMKY.NS,Ramky Infrastructure Limited,Industrials,NIFTY INFRA,^CNXINFRA
+RAMRAT,RAMRAT.NS,Ram Ratna Wires Limited,Industrials,NIFTY INFRA,^CNXINFRA
+RANASUG,RANASUG.NS,Rana Sugars Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+RANEHOLDIN,RANEHOLDIN.NS,Rane Holdings Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+RATEGAIN,RATEGAIN.NS,RateGain Travel Technologies Limited,Technology,NIFTY IT,^CNXIT
+RATNAMANI,RATNAMANI.NS,Ratnamani Metals & Tubes Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+RATNAVEER,RATNAVEER.NS,Ratnaveer Precision Engineering Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+RAYMOND,RAYMOND.NS,Raymond Limited,Industrials,NIFTY INFRA,^CNXINFRA
+RAYMONDLSL,RAYMONDLSL.NS,Raymond Lifestyle Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+RAYMONDREL,RAYMONDREL.NS,Raymond Realty Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+RBA,RBA.NS,Restaurant Brands Asia Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+RBLBANK,RBLBANK.NS,RBL Bank Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+RBZJEWEL,RBZJEWEL.NS,RBZ Jewellers Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+RCF,RCF.NS,Rashtriya Chemicals and Fertilizers Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+RECLTD,RECLTD.NS,REC Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+REDINGTON,REDINGTON.NS,Redington Limited,Technology,NIFTY IT,^CNXIT
+REDTAPE,REDTAPE.NS,REDTAPE Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+REFEX,REFEX.NS,Refex Industries Limited,Energy,NIFTY ENERGY,^CNXENERGY
+REGAAL,REGAAL.NS,REGAAL,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+REGENCERAM,REGENCERAM.NS,Regency Ceramics Limited,Industrials,NIFTY INFRA,^CNXINFRA
+RELAXO,RELAXO.NS,Relaxo Footwears Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+RELCHEMQ,RELCHEMQ.NS,Reliance Chemotex Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+RELIANCE,RELIANCE.NS,Reliance Industries Limited,Energy,NIFTY ENERGY,^CNXENERGY
+RELIGARE,RELIGARE.NS,Religare Enterprises Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+RELTD,RELTD.NS,Ravindra Energy Limited,Technology,NIFTY IT,^CNXIT
+REMSONSIND,REMSONSIND.NS,Remsons Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+RENUKA,RENUKA.NS,Shree Renuka Sugars Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+REPCOHOME,REPCOHOME.NS,Repco Home Finance Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+REPL,REPL.NS,Rudrabhishek Enterprises Limited,Industrials,NIFTY INFRA,^CNXINFRA
+REPRO,REPRO.NS,Repro India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+RESPONIND,RESPONIND.NS,Responsive Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+RETAIL,RETAIL.NS,JHS Svendgaard Retail Ventures Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+RGL,RGL.NS,Renaissance Global Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+RHETAN,RHETAN.NS,Rhetan TMT Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+RHIM,RHIM.NS,RHI Magnesita India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+RHL,RHL.NS,Robust Hotels Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+RICOAUTO,RICOAUTO.NS,Rico Auto Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+RIIL,RIIL.NS,Reliance Industrial Infrastructure Limited,Industrials,NIFTY INFRA,^CNXINFRA
+RISHABH,RISHABH.NS,Rishabh Instruments Limited,Technology,NIFTY IT,^CNXIT
+RITCO,RITCO.NS,Ritco Logistics Limited,Industrials,NIFTY INFRA,^CNXINFRA
+RITES,RITES.NS,RITES Limited,Industrials,NIFTY INFRA,^CNXINFRA
+RKDL,RKDL.NS,Ravi Kumar Distilleries Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+RKEC,RKEC.NS,RKEC Projects Limited,Industrials,NIFTY INFRA,^CNXINFRA
+RKFORGE,RKFORGE.NS,Ramkrishna Forgings Limited,Industrials,NIFTY INFRA,^CNXINFRA
+RKSWAMY,RKSWAMY.NS,RKSWAMY,Communication Services,NIFTY MEDIA,^CNXMEDIA
+RMDRIP,RMDRIP.NS,RMDRIP,Industrials,NIFTY INFRA,^CNXINFRA
+RML,RML.NS,Rane (Madras) Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+RNBDENIMS,RNBDENIMS.NS,R & B Denims Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ROHLTD,ROHLTD.NS,Royal Orchid Hotels Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ROLEXRINGS,ROLEXRINGS.NS,Rolex Rings Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ROLLT,ROLLT.NS,Rollatainers Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+ROML,ROML.NS,Raj Oil Mills Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+ROSSARI,ROSSARI.NS,Rossari Biotech Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ROSSELLIND,ROSSELLIND.NS,Rossell India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ROSSTECH,ROSSTECH.NS,Rossell Techsys Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ROTO,ROTO.NS,Roto Pumps Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ROUTE,ROUTE.NS,Route Mobile Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+RPEL,RPEL.NS,Raghav Productivity Enhancers Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+RPGLIFE,RPGLIFE.NS,RPG Life Sciences Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+RPOWER,RPOWER.NS,Reliance Power Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+RPPINFRA,RPPINFRA.NS,R.P.P. Infra Projects Limited,Industrials,NIFTY INFRA,^CNXINFRA
+RPPL,RPPL.NS,Rajshree Polypack Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+RPSGVENT,RPSGVENT.NS,RPSG Ventures Limited,Technology,NIFTY IT,^CNXIT
+RPTECH,RPTECH.NS,Rashi Peripherals Limited,Technology,NIFTY IT,^CNXIT
+RRKABEL,RRKABEL.NS,R R Kabel Limited,Industrials,NIFTY INFRA,^CNXINFRA
+RSSOFTWARE,RSSOFTWARE.NS,R S Software (India) Limited,Technology,NIFTY IT,^CNXIT
+RSWM,RSWM.NS,RSWM Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+RSYSTEMS,RSYSTEMS.NS,R Systems International Limited,Technology,NIFTY IT,^CNXIT
+RTNINDIA,RTNINDIA.NS,RattanIndia Enterprises Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+RTNPOWER,RTNPOWER.NS,RattanIndia Power Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+RUBFILA,RUBFILA.NS,Rubfila International Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+RUBICON,RUBICON.NS,RUBICON,Healthcare,NIFTY PHARMA,^CNXPHARMA
+RUBYMILLS,RUBYMILLS.NS,The Ruby Mills Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+RUCHINFRA,RUCHINFRA.NS,Ruchi Infrastructure Limited,Industrials,NIFTY INFRA,^CNXINFRA
+RUCHIRA,RUCHIRA.NS,Ruchira Papers Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+RUDRA,RUDRA.NS,Rudra Global Infra Products Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+RUPA,RUPA.NS,Rupa & Company Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+RUSHIL,RUSHIL.NS,Rushil Décor Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+RUSTOMJEE,RUSTOMJEE.NS,Keystone Realtors Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+RVHL,RVHL.NS,Ravinder Heights Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+RVNL,RVNL.NS,Rail Vikas Nigam Limited,Industrials,NIFTY INFRA,^CNXINFRA
+RVTH,RVTH.NS,Revathi Equipment India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+S&SPOWER,S&SPOWER.NS,S&S Power Switchgear Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SAATVIKGL,SAATVIKGL.NS,Saatvik Green Energy Limited,Technology,NIFTY IT,^CNXIT
+SADBHIN,SADBHIN.NS,Sadbhav Infrastructure Project Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SADHNANIQ,SADHNANIQ.NS,Sadhana Nitro Chem Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SAFARI,SAFARI.NS,Safari Industries (India) Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SAGARDEEP,SAGARDEEP.NS,Sagardeep Alloys Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SAGCEM,SAGCEM.NS,Sagar Cements Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SAGILITY,SAGILITY.NS,Sagility Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+SAHYADRI,SAHYADRI.NS,Sahyadri Industries Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SAIL,SAIL.NS,Steel Authority of India Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SAILIFE,SAILIFE.NS,SAILIFE,Healthcare,NIFTY PHARMA,^CNXPHARMA
+SAKAR,SAKAR.NS,Sakar Healthcare Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+SAKHTISUG,SAKHTISUG.NS,Sakthi Sugars Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+SAKSOFT,SAKSOFT.NS,Saksoft Limited,Technology,NIFTY IT,^CNXIT
+SAKUMA,SAKUMA.NS,Sakuma Exports Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+SALASAR,SALASAR.NS,Salasar Techno Engineering Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SALONA,SALONA.NS,Salona Cotspin Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SALZERELEC,SALZERELEC.NS,Salzer Electronics Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SAMBHV,SAMBHV.NS,SAMBHV,Basic Materials,NIFTY METAL,^CNXMETAL
+SAMHI,SAMHI.NS,SAMHI Hotels Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SAMMAANCAP,SAMMAANCAP.NS,Sammaan Capital Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+SAMPANN,SAMPANN.NS,Sampann Utpadan India Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SANATHAN,SANATHAN.NS,SANATHAN,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SANDESH,SANDESH.NS,The Sandesh Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+SANDHAR,SANDHAR.NS,Sandhar Technologies Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SANDUMA,SANDUMA.NS,The Sandur Manganese & Iron Ores Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SANGAMIND,SANGAMIND.NS,Sangam (India) Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SANGHIIND,SANGHIIND.NS,Sanghi Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SANGHVIMOV,SANGHVIMOV.NS,Sanghvi Movers Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SANGINITA,SANGINITA.NS,Sanginita Chemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SANOFI,SANOFI.NS,Sanofi India Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+SANOFICONR,SANOFICONR.NS,SANOFICONR,Healthcare,NIFTY PHARMA,^CNXPHARMA
+SANSERA,SANSERA.NS,Sansera Engineering Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SANSTAR,SANSTAR.NS,SANSTAR,Basic Materials,NIFTY METAL,^CNXMETAL
+SAPPHIRE,SAPPHIRE.NS,Sapphire Foods India Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SARDAEN,SARDAEN.NS,Sarda Energy & Minerals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SAREGAMA,SAREGAMA.NS,Saregama India Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+SARLAPOLY,SARLAPOLY.NS,Sarla Performance Fibers Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SARVESHWAR,SARVESHWAR.NS,Sarveshwar Foods Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+SASKEN,SASKEN.NS,Sasken Technologies Limited,Technology,NIFTY IT,^CNXIT
+SASTASUNDR,SASTASUNDR.NS,Sastasundar Ventures Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+SATIA,SATIA.NS,Satia Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SATIN,SATIN.NS,Satin Creditcare Network Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+SAURASHCEM,SAURASHCEM.NS,Saurashtra Cement Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SBC,SBC.NS,SBC Exports Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SBCL,SBCL.NS,Shivalik Bimetal Controls Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SBFC,SBFC.NS,SBFC Finance Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+SBGLP,SBGLP.NS,Suratwwala Business Group Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+SBICARD,SBICARD.NS,SBI Cards and Payment Services Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+SBILIFE,SBILIFE.NS,SBI Life Insurance Company Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+SBIN,SBIN.NS,State Bank of India,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+SCHAEFFLER,SCHAEFFLER.NS,Schaeffler India Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SCHAND,SCHAND.NS,S Chand And Company Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+SCHNEIDER,SCHNEIDER.NS,Schneider Electric Infrastructure Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SCI,SCI.NS,The Shipping Corporation of India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SCILAL,SCILAL.NS,Shipping Corporation of India Land and Assets Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+SCODATUBES,SCODATUBES.NS,Scoda Tubes Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SCPL,SCPL.NS,Sheetal Cool Products Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+SDBL,SDBL.NS,Som Distilleries & Breweries Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+SEAMECLTD,SEAMECLTD.NS,Seamec Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SECMARK,SECMARK.NS,SecMark Consultancy Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SEMAC,SEMAC.NS,Semac Construction Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SENCO,SENCO.NS,Senco Gold Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SENORES,SENORES.NS,SENORES,Healthcare,NIFTY PHARMA,^CNXPHARMA
+SEPC,SEPC.NS,SEPC Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SEQUENT,SEQUENT.NS,Sequent Scientific Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+SERVOTECH,SERVOTECH.NS,Servotech Renewable Power System Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SESHAPAPER,SESHAPAPER.NS,Seshasayee Paper and Boards Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SETCO,SETCO.NS,Setco Automotive Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SFL,SFL.NS,Sheela Foam Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SGFIN,SGFIN.NS,SG Finserve Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+SGIL,SGIL.NS,Synergy Green Industries Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SGL,SGL.NS,STL Global Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SGLTL,SGLTL.NS,SGLTL,Industrials,NIFTY INFRA,^CNXINFRA
+SGMART,SGMART.NS,SG Mart Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SHAH,SHAH.NS,Shah Metacorp Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SHAHALLOYS,SHAHALLOYS.NS,Shah Alloys Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SHAILY,SHAILY.NS,Shaily Engineering Plastics Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SHAKTIPUMP,SHAKTIPUMP.NS,Shakti Pumps (India) Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SHALBY,SHALBY.NS,Shalby Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+SHALPAINTS,SHALPAINTS.NS,Shalimar Paints Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SHANKARA,SHANKARA.NS,Shankara Building Products Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SHANTI,SHANTI.NS,Shanti Overseas (India) Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+SHANTIGEAR,SHANTIGEAR.NS,Shanthi Gears Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SHANTIGOLD,SHANTIGOLD.NS,SHANTIGOLD,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SHARDACROP,SHARDACROP.NS,Sharda Cropchem Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SHARDAMOTR,SHARDAMOTR.NS,Sharda Motor Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SHAREINDIA,SHAREINDIA.NS,Share India Securities Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+SHEKHAWATI,SHEKHAWATI.NS,Shekhawati Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SHEMAROO,SHEMAROO.NS,Shemaroo Entertainment Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+SHILCTECH,SHILCTECH.NS,Shilchar Technologies Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SHILPAMED,SHILPAMED.NS,Shilpa Medicare Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+SHIVALIK,SHIVALIK.NS,Shivalik Rasayan Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SHIVAMAUTO,SHIVAMAUTO.NS,Shivam Autotech Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SHIVAMILLS,SHIVAMILLS.NS,Shiva Mills Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SHIVATEX,SHIVATEX.NS,Shiva Texyarn Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SHIVAUM,SHIVAUM.NS,SHIVAUM,Basic Materials,NIFTY METAL,^CNXMETAL
+SHK,SHK.NS,S H Kelkar and Company Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SHOPERSTOP,SHOPERSTOP.NS,Shoppers Stop Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SHRADHA,SHRADHA.NS,Shradha Infraprojects Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+SHREDIGCEM,SHREDIGCEM.NS,Shree Digvijay Cement Company Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SHREECEM,SHREECEM.NS,Shree Cement Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SHREEJISPG,SHREEJISPG.NS,SHREEJISPG,Industrials,NIFTY INFRA,^CNXINFRA
+SHREEPUSHK,SHREEPUSHK.NS,Shree Pushkar Chemicals & Fertilisers Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SHREERAMA,SHREERAMA.NS,Shree Rama Multi-Tech Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SHRENIK,SHRENIK.NS,Shrenik Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SHREYANIND,SHREYANIND.NS,Shreyans Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SHRINGARMS,SHRINGARMS.NS,Shringar House of Mangalsutra Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SHRIPISTON,SHRIPISTON.NS,Shriram Pistons & Rings Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SHRIRAMFIN,SHRIRAMFIN.NS,Shriram Finance Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+SHRIRAMPPS,SHRIRAMPPS.NS,Shriram Properties Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+SHYAMMETL,SHYAMMETL.NS,Shyam Metalics and Energy Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SHYAMTEL,SHYAMTEL.NS,Shyam Telecom Limited,Technology,NIFTY IT,^CNXIT
+SIEMENS,SIEMENS.NS,Siemens Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SIGACHI,SIGACHI.NS,Sigachi Industries Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+SIGIND,SIGIND.NS,Signet Industries Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SIGNATURE,SIGNATURE.NS,Signatureglobal (India) Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+SIGNPOST,SIGNPOST.NS,Signpost India Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+SIL,SIL.NS,Standard Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SILGO,SILGO.NS,Silgo Retail Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SILINV,SILINV.NS,SIL Investments Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+SILVERTUC,SILVERTUC.NS,Silver Touch Technologies Limited,Technology,NIFTY IT,^CNXIT
+SIMPLEXINF,SIMPLEXINF.NS,Simplex Infrastructures Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SINCLAIR,SINCLAIR.NS,Sinclairs Hotels Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SINDHUTRAD,SINDHUTRAD.NS,Sindhu Trade Links Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SINTERCOM,SINTERCOM.NS,Sintercom India Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SIRCA,SIRCA.NS,Sirca Paints India Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SIS,SIS.NS,SIS Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SIYSIL,SIYSIL.NS,Siyaram Silk Mills Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SJS,SJS.NS,S.J.S. Enterprises Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SJVN,SJVN.NS,SJVN Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+SKFINDIA,SKFINDIA.NS,SKF India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SKFINDUS,SKFINDUS.NS,SKFINDUS,Industrials,NIFTY INFRA,^CNXINFRA
+SKIPPER,SKIPPER.NS,Skipper Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SKMEGGPROD,SKMEGGPROD.NS,SKM Egg Products Export (India) Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+SKYGOLD,SKYGOLD.NS,Sky Gold and Diamonds Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SMARTLINK,SMARTLINK.NS,Smartlink Holdings Limited,Technology,NIFTY IT,^CNXIT
+SMARTWORKS,SMARTWORKS.NS,SMARTWORKS,Real Estate,NIFTY REALTY,^CNXREALTY
+SMCGLOBAL,SMCGLOBAL.NS,SMC Global Securities Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+SMLMAH,SMLMAH.NS,SMLMAH,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SMLT,SMLT.NS,Sarthak Metals Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SMSPHARMA,SMSPHARMA.NS,SMS Pharmaceuticals Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+SNOWMAN,SNOWMAN.NS,Snowman Logistics Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SOBHA,SOBHA.NS,Sobha Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+SOFTTECH,SOFTTECH.NS,SoftTech Engineers Limited,Technology,NIFTY IT,^CNXIT
+SOLARA,SOLARA.NS,Solara Active Pharma Sciences Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+SOLARINDS,SOLARINDS.NS,Solar Industries India Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SOLARWORLD,SOLARWORLD.NS,SOLARWORLD,Technology,NIFTY IT,^CNXIT
+SOLEX,SOLEX.NS,SOLEX,Technology,NIFTY IT,^CNXIT
+SOMANYCERA,SOMANYCERA.NS,Somany Ceramics Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SOMICONVEY,SOMICONVEY.NS,Somi Conveyor Beltings Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SONACOMS,SONACOMS.NS,Sona BLW Precision Forgings Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SONAMLTD,SONAMLTD.NS,Sonam Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SONATSOFTW,SONATSOFTW.NS,Sonata Software Limited,Technology,NIFTY IT,^CNXIT
+SOTL,SOTL.NS,Savita Oil Technologies Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SOUTHBANK,SOUTHBANK.NS,The South Indian Bank Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+SPAL,SPAL.NS,S.P. Apparels Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SPANDANA,SPANDANA.NS,Spandana Sphoorty Financial Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+SPARC,SPARC.NS,Sun Pharma Advanced Research Company Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+SPECIALITY,SPECIALITY.NS,Speciality Restaurants Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SPECTRUM,SPECTRUM.NS,SPECTRUM,Industrials,NIFTY INFRA,^CNXINFRA
+SPENCERS,SPENCERS.NS,Spencer's Retail Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SPIC,SPIC.NS,Southern Petrochemical Industries Corporation Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SPLIL,SPLIL.NS,SPL Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SPLPETRO,SPLPETRO.NS,Supreme Petrochem Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SPMLINFRA,SPMLINFRA.NS,SPML Infra Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SPORTKING,SPORTKING.NS,Sportking India Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SRD,SRD.NS,Shankar Lal Rampal Dye-Chem Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SREEL,SREEL.NS,Sreeleathers Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SRF,SRF.NS,SRF Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SRGHFL,SRGHFL.NS,SRG Housing Finance Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+SRHHYPOLTD,SRHHYPOLTD.NS,Sree Rayalaseema Hi-Strength Hypo Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SRM,SRM.NS,SRM,Industrials,NIFTY INFRA,^CNXINFRA
+SSDL,SSDL.NS,SSDL,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SSWL,SSWL.NS,Steel Strips Wheels Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+STANLEY,STANLEY.NS,STANLEY,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+STAR,STAR.NS,Strides Pharma Science Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+STARCEMENT,STARCEMENT.NS,Star Cement Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+STARHEALTH,STARHEALTH.NS,Star Health and Allied Insurance Company Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+STARPAPER,STARPAPER.NS,Star Paper Mills Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+STARTECK,STARTECK.NS,Starteck Finance Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+STCINDIA,STCINDIA.NS,The State Trading Corporation of India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+STEELCAS,STEELCAS.NS,Steelcast Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+STEELCITY,STEELCITY.NS,Steel City Securities Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+STEELXIND,STEELXIND.NS,Steel Exchange India Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+STEL,STEL.NS,STEL Holdings Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+STERTOOLS,STERTOOLS.NS,Sterling Tools Limited,Industrials,NIFTY INFRA,^CNXINFRA
+STLNETWORK,STLNETWORK.NS,STLNETWORK,Communication Services,NIFTY MEDIA,^CNXMEDIA
+STLTECH,STLTECH.NS,Sterlite Technologies Limited,Technology,NIFTY IT,^CNXIT
+STOVEKRAFT,STOVEKRAFT.NS,Stove Kraft Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+STUDDS,STUDDS.NS,STUDDS,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+STYL,STYL.NS,STYL,Technology,NIFTY IT,^CNXIT
+STYLAMIND,STYLAMIND.NS,Stylam Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+STYLEBAAZA,STYLEBAAZA.NS,Baazar Style Retail Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+STYRENIX,STYRENIX.NS,Styrenix Performance Materials Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SUBEXLTD,SUBEXLTD.NS,Subex Limited,Technology,NIFTY IT,^CNXIT
+SUBROS,SUBROS.NS,Subros Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SUDARSCHEM,SUDARSCHEM.NS,Sudarshan Chemical Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SUDEEPPHRM,SUDEEPPHRM.NS,SUDEEPPHRM,Healthcare,NIFTY PHARMA,^CNXPHARMA
+SUKHJITS,SUKHJITS.NS,The Sukhjit Starch & Chemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SULA,SULA.NS,Sula Vineyards Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+SUMICHEM,SUMICHEM.NS,Sumitomo Chemical India Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SUMIT,SUMIT.NS,Sumit Woods Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+SUMMITSEC,SUMMITSEC.NS,Summit Securities Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+SUNCLAY,SUNCLAY.NS,Sundaram-Clayton Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SUNDARAM,SUNDARAM.NS,Sundaram Multi Pap Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SUNDARMFIN,SUNDARMFIN.NS,Sundaram Finance Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+SUNDRMBRAK,SUNDRMBRAK.NS,Sundaram Brake Linings Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SUNDRMFAST,SUNDRMFAST.NS,Sundram Fasteners Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SUNDROP,SUNDROP.NS,Sundrop Brands Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+SUNFLAG,SUNFLAG.NS,Sunflag Iron and Steel Company Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SUNPHARMA,SUNPHARMA.NS,Sun Pharmaceutical Industries Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+SUNTECK,SUNTECK.NS,Sunteck Realty Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+SUNTV,SUNTV.NS,Sun TV Network Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+SUPERHOUSE,SUPERHOUSE.NS,Superhouse Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SUPERSPIN,SUPERSPIN.NS,Super Spinning Mills Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SUPRAJIT,SUPRAJIT.NS,Suprajit Engineering Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SUPREME,SUPREME.NS,Supreme Holdings & Hospitality (India) Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+SUPREMEIND,SUPREMEIND.NS,The Supreme Industries Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SUPRIYA,SUPRIYA.NS,Supriya Lifescience Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+SURAJEST,SURAJEST.NS,SURAJEST,Real Estate,NIFTY REALTY,^CNXREALTY
+SURAJLTD,SURAJLTD.NS,Suraj Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SURAKSHA,SURAKSHA.NS,SURAKSHA,Healthcare,NIFTY PHARMA,^CNXPHARMA
+SURANASOL,SURANASOL.NS,Surana Solar Limited,Technology,NIFTY IT,^CNXIT
+SURANAT&P,SURANAT&P.NS,Surana Telecom and Power Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+SURYALAXMI,SURYALAXMI.NS,Suryalakshmi Cotton Mills Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SURYAROSNI,SURYAROSNI.NS,Surya Roshni Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+SURYODAY,SURYODAY.NS,Suryoday Small Finance Bank Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+SUTLEJTEX,SUTLEJTEX.NS,Sutlej Textiles and Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SUVEN,SUVEN.NS,Suven Life Sciences Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+SUVIDHAA,SUVIDHAA.NS,Suvidhaa Infoserve Limited,Technology,NIFTY IT,^CNXIT
+SUYOG,SUYOG.NS,Suyog Telematics Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+SUZLON,SUZLON.NS,Suzlon Energy Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SVLL,SVLL.NS,Shree Vasu Logistics Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SWANCORP,SWANCORP.NS,Swan Corp Limited,Industrials,NIFTY INFRA,^CNXINFRA
+SWARAJENG,SWARAJENG.NS,Swaraj Engines Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SWELECTES,SWELECTES.NS,Swelect Energy Systems Limited,Technology,NIFTY IT,^CNXIT
+SWIGGY,SWIGGY.NS,SWIGGY,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SWSOLAR,SWSOLAR.NS,Sterling and Wilson Renewable Energy Limited,Technology,NIFTY IT,^CNXIT
+SYMPHONY,SYMPHONY.NS,Symphony Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+SYNCOMF,SYNCOMF.NS,Syncom Formulations (India) Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+SYNGENE,SYNGENE.NS,Syngene International Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+SYRMA,SYRMA.NS,Syrma SGS Technology Limited,Technology,NIFTY IT,^CNXIT
+SYSTMTXC,SYSTMTXC.NS,Systematix Corporate Services Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+TAINWALCHM,TAINWALCHM.NS,Tainwala Chemicals and Plastics (India) Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+TAJGVK,TAJGVK.NS,TAJGVK Hotels & Resorts Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+TALBROAUTO,TALBROAUTO.NS,Talbros Automotive Components Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+TANLA,TANLA.NS,Tanla Platforms Limited,Technology,NIFTY IT,^CNXIT
+TARACHAND,TARACHAND.NS,Tara Chand Infralogistic Solutions Limited,Industrials,NIFTY INFRA,^CNXINFRA
+TARC,TARC.NS,TARC Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+TARIL,TARIL.NS,TARIL,Industrials,NIFTY INFRA,^CNXINFRA
+TARMAT,TARMAT.NS,Tarmat Limited,Industrials,NIFTY INFRA,^CNXINFRA
+TARSONS,TARSONS.NS,Tarsons Products Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+TASTYBITE,TASTYBITE.NS,Tasty Bite Eatables Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+TATACAP,TATACAP.NS,TATACAP,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+TATACHEM,TATACHEM.NS,Tata Chemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+TATACOMM,TATACOMM.NS,Tata Communications Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+TATACONSUM,TATACONSUM.NS,Tata Consumer Products Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+TATAELXSI,TATAELXSI.NS,Tata Elxsi Limited,Technology,NIFTY IT,^CNXIT
+TATAINVEST,TATAINVEST.NS,Tata Investment Corporation Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+TATAPOWER,TATAPOWER.NS,Tata Power Company Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+TATASTEEL,TATASTEEL.NS,Tata Steel Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+TATATECH,TATATECH.NS,Tata Technologies Limited,Technology,NIFTY IT,^CNXIT
+TATVA,TATVA.NS,Tatva Chintan Pharma Chem Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+TBOTEK,TBOTEK.NS,TBOTEK,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+TBZ,TBZ.NS,Tribhovandas Bhimji Zaveri Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+TCI,TCI.NS,Transport Corporation of India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+TCIEXP,TCIEXP.NS,TCI Express Limited,Industrials,NIFTY INFRA,^CNXINFRA
+TCPLPACK,TCPLPACK.NS,TCPL Packaging Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+TCS,TCS.NS,Tata Consultancy Services Limited,Technology,NIFTY IT,^CNXIT
+TDPOWERSYS,TDPOWERSYS.NS,TD Power Systems Limited,Industrials,NIFTY INFRA,^CNXINFRA
+TEAMGTY,TEAMGTY.NS,Team India Guaranty Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+TEAMLEASE,TEAMLEASE.NS,TeamLease Services Limited,Industrials,NIFTY INFRA,^CNXINFRA
+TECHM,TECHM.NS,Tech Mahindra Limited,Technology,NIFTY IT,^CNXIT
+TECHNOE,TECHNOE.NS,Techno Electric & Engineering Company Limited,Industrials,NIFTY INFRA,^CNXINFRA
+TECILCHEM,TECILCHEM.NS,Tecil Chemicals and Hydro Power Ltd.,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+TEGA,TEGA.NS,Tega Industries Limited,Industrials,NIFTY INFRA,^CNXINFRA
+TEJASNET,TEJASNET.NS,Tejas Networks Limited,Technology,NIFTY IT,^CNXIT
+TEMBO,TEMBO.NS,Tembo Global Industries Limited,Industrials,NIFTY INFRA,^CNXINFRA
+TENNIND,TENNIND.NS,TENNIND,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+TEXINFRA,TEXINFRA.NS,Texmaco Infrastructure & Holdings Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+TEXMOPIPES,TEXMOPIPES.NS,Texmo Pipes and Products Limited,Industrials,NIFTY INFRA,^CNXINFRA
+TEXRAIL,TEXRAIL.NS,Texmaco Rail & Engineering Limited,Industrials,NIFTY INFRA,^CNXINFRA
+TFCILTD,TFCILTD.NS,Tourism Finance Corporation of India Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+TFL,TFL.NS,Transwarranty Finance Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+TGBHOTELS,TGBHOTELS.NS,TGB Banquets and Hotels Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+THANGAMAYL,THANGAMAYL.NS,Thangamayil Jewellery Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+THEINVEST,THEINVEST.NS,The Investment Trust of India Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+THEJO,THEJO.NS,Thejo Engineering Limited,Industrials,NIFTY INFRA,^CNXINFRA
+THELEELA,THELEELA.NS,Leela Palaces Hotels & Resorts Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+THEMISMED,THEMISMED.NS,Themis Medicare Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+THERMAX,THERMAX.NS,Thermax Limited,Industrials,NIFTY INFRA,^CNXINFRA
+THOMASCOOK,THOMASCOOK.NS,Thomas Cook (India) Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+THOMASCOTT,THOMASCOTT.NS,Thomas Scott (India) Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+THYROCARE,THYROCARE.NS,Thyrocare Technologies Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+TI,TI.NS,Tilaknagar Industries Ltd.,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+TIGERLOGS,TIGERLOGS.NS,Tiger Logistics (India) Limited,Industrials,NIFTY INFRA,^CNXINFRA
+TIIL,TIIL.NS,Technocraft Industries (India) Limited,Industrials,NIFTY INFRA,^CNXINFRA
+TIINDIA,TIINDIA.NS,Tube Investments of India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+TIJARIA,TIJARIA.NS,Tijaria Polypipes Limited,Industrials,NIFTY INFRA,^CNXINFRA
+TIL,TIL.NS,TIL Limited,Industrials,NIFTY INFRA,^CNXINFRA
+TIMETECHNO,TIMETECHNO.NS,Time Technoplast Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+TIMKEN,TIMKEN.NS,Timken India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+TINNARUBR,TINNARUBR.NS,Tinna Rubber and Infrastructure Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+TIPSFILMS,TIPSFILMS.NS,Tips Films Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+TIPSMUSIC,TIPSMUSIC.NS,Tips Music Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+TIRUMALCHM,TIRUMALCHM.NS,Thirumalai Chemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+TIRUPATIFL,TIRUPATIFL.NS,Tirupati Forge Limited,Industrials,NIFTY INFRA,^CNXINFRA
+TITAGARH,TITAGARH.NS,Titagarh Rail Systems Limited,Industrials,NIFTY INFRA,^CNXINFRA
+TITAN,TITAN.NS,Titan Company Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+TMB,TMB.NS,Tamilnad Mercantile Bank Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+TMCV,TMCV.NS,TMCV,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+TMPV,TMPV.NS,Tata Motors Passenger Vehicles Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+TNPETRO,TNPETRO.NS,Tamilnadu Petroproducts Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+TNPL,TNPL.NS,Tamil Nadu Newsprint and Papers Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+TNTELE,TNTELE.NS,Tamilnadu Telecommunications Limited,Technology,NIFTY IT,^CNXIT
+TOKYOPLAST,TOKYOPLAST.NS,Tokyo Plast International Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+TOLINS,TOLINS.NS,TOLINS,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+TORNTPHARM,TORNTPHARM.NS,Torrent Pharmaceuticals Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+TORNTPOWER,TORNTPOWER.NS,Torrent Power Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+TOTAL,TOTAL.NS,Total Transport Systems Limited,Industrials,NIFTY INFRA,^CNXINFRA
+TOUCHWOOD,TOUCHWOOD.NS,Touchwood Entertainment Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+TPHQ,TPHQ.NS,Teamo Productions HQ Limited,Industrials,NIFTY INFRA,^CNXINFRA
+TPLPLASTEH,TPLPLASTEH.NS,TPL Plastech Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+TRACXN,TRACXN.NS,Tracxn Technologies Limited,Technology,NIFTY IT,^CNXIT
+TRANSRAILL,TRANSRAILL.NS,TRANSRAILL,Industrials,NIFTY INFRA,^CNXINFRA
+TRANSWORLD,TRANSWORLD.NS,Transworld Shipping Lines Limited,Industrials,NIFTY INFRA,^CNXINFRA
+TRAVELFOOD,TRAVELFOOD.NS,TRAVELFOOD,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+TREEHOUSE,TREEHOUSE.NS,Tree House Education & Accessories Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+TREL,TREL.NS,Transindia Real Estate Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+TRENT,TRENT.NS,Trent Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+TRF,TRF.NS,TRF Limited,Industrials,NIFTY INFRA,^CNXINFRA
+TRIDENT,TRIDENT.NS,Trident Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+TRIGYN,TRIGYN.NS,Trigyn Technologies Limited,Technology,NIFTY IT,^CNXIT
+TRITURBINE,TRITURBINE.NS,Triveni Turbine Limited,Industrials,NIFTY INFRA,^CNXINFRA
+TRIVENI,TRIVENI.NS,Triveni Engineering & Industries Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+TRU,TRU.NS,TruCap Finance Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+TRUALT,TRUALT.NS,TRUALT,Energy,NIFTY ENERGY,^CNXENERGY
+TSFINV,TSFINV.NS,TSF Investments Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+TTKHLTCARE,TTKHLTCARE.NS,TTK Healthcare Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+TTKPRESTIG,TTKPRESTIG.NS,TTK Prestige Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+TTL,TTL.NS,T.T. Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+TTML,TTML.NS,Tata Teleservices (Maharashtra) Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+TVSHLTD,TVSHLTD.NS,TVS Holdings Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+TVSMOTOR,TVSMOTOR.NS,TVS Motor Company Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+TVSSCS,TVSSCS.NS,TVS Supply Chain Solutions Limited,Industrials,NIFTY INFRA,^CNXINFRA
+TVSSRICHAK,TVSSRICHAK.NS,TVS Srichakra Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+TVTODAY,TVTODAY.NS,T.V. Today Network Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+UBL,UBL.NS,United Breweries Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+UCAL,UCAL.NS,UCAL Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+UCOBANK,UCOBANK.NS,UCO Bank,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+UDS,UDS.NS,Updater Services Limited,Industrials,NIFTY INFRA,^CNXINFRA
+UFBL,UFBL.NS,UFBL,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+UFLEX,UFLEX.NS,Uflex Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+UFO,UFO.NS,UFO Moviez India Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+UGARSUGAR,UGARSUGAR.NS,The Ugar Sugar Works Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+UGROCAP,UGROCAP.NS,UGRO Capital Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+UJJIVANSFB,UJJIVANSFB.NS,Ujjivan Small Finance Bank Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+ULTRACEMCO,ULTRACEMCO.NS,UltraTech Cement Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+UMAEXPORTS,UMAEXPORTS.NS,Uma Exports Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+UMESLTD,UMESLTD.NS,Usha Martin Education & Solutions Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+UMIYA-MRO,UMIYA-MRO.NS,Umiya Buildcon Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+UNICHEMLAB,UNICHEMLAB.NS,Unichem Laboratories Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+UNIDT,UNIDT.NS,United Drilling Tools Limited,Energy,NIFTY ENERGY,^CNXENERGY
+UNIECOM,UNIECOM.NS,UNIECOM,Technology,NIFTY IT,^CNXIT
+UNIENTER,UNIENTER.NS,Uniphos Enterprises Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+UNIINFO,UNIINFO.NS,Uniinfo Telecom Services Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+UNIMECH,UNIMECH.NS,UNIMECH,Industrials,NIFTY INFRA,^CNXINFRA
+UNIONBANK,UNIONBANK.NS,Union Bank of India,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+UNIPARTS,UNIPARTS.NS,Uniparts India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+UNITDSPR,UNITDSPR.NS,UNITDSPR,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+UNITECH,UNITECH.NS,Unitech Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+UNITEDTEA,UNITEDTEA.NS,The United Nilgiri Tea Estates Company Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+UNIVASTU,UNIVASTU.NS,Univastu India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+UNIVCABLES,UNIVCABLES.NS,Universal Cables Limited,Industrials,NIFTY INFRA,^CNXINFRA
+UNIVPHOTO,UNIVPHOTO.NS,Universus Photo Imagings Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+UNOMINDA,UNOMINDA.NS,Uno Minda Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+UPL,UPL.NS,UPL Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+URAVIDEF,URAVIDEF.NS,Uravi Defence and Technology Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+URBANCO,URBANCO.NS,Urban Company Limited,Technology,NIFTY IT,^CNXIT
+URJA,URJA.NS,Urja Global Limited,Technology,NIFTY IT,^CNXIT
+USHAMART,USHAMART.NS,Usha Martin Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+USK,USK.NS,Udayshivakumar Infra Limited,Industrials,NIFTY INFRA,^CNXINFRA
+UTIAMC,UTIAMC.NS,UTI Asset Management Company Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+UTKARSHBNK,UTKARSHBNK.NS,Utkarsh Small Finance Bank Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+UTLSOLAR,UTLSOLAR.NS,UTLSOLAR,Technology,NIFTY IT,^CNXIT
+UTTAMSUGAR,UTTAMSUGAR.NS,Uttam Sugar Mills Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+V2RETAIL,V2RETAIL.NS,V2 Retail Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+VADILALIND,VADILALIND.NS,Vadilal Industries Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+VAIBHAVGBL,VAIBHAVGBL.NS,Vaibhav Global Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+VAISHALI,VAISHALI.NS,Vaishali Pharma Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+VAKRANGEE,VAKRANGEE.NS,Vakrangee Limited,Technology,NIFTY IT,^CNXIT
+VALIANTLAB,VALIANTLAB.NS,Valiant Laboratories Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+VALIANTORG,VALIANTORG.NS,Valiant Organics Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+VARDHACRLC,VARDHACRLC.NS,Vardhman Acrylics Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+VARDMNPOLY,VARDMNPOLY.NS,Vardhman Polytex Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+VARROC,VARROC.NS,Varroc Engineering Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+VASCONEQ,VASCONEQ.NS,Vascon Engineers Limited,Industrials,NIFTY INFRA,^CNXINFRA
+VASWANI,VASWANI.NS,Vaswani Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+VBL,VBL.NS,Varun Beverages Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+VEDL,VEDL.NS,Vedanta Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+VEEDOL,VEEDOL.NS,Veedol Corporation Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+VENKEYS,VENKEYS.NS,Venky's (India) Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+VENTIVE,VENTIVE.NS,VENTIVE,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+VENUSPIPES,VENUSPIPES.NS,Venus Pipes and Tubes Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+VERANDA,VERANDA.NS,Veranda Learning Solutions Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+VERTOZ,VERTOZ.NS,Vertoz Limited,Technology,NIFTY IT,^CNXIT
+VESUVIUS,VESUVIUS.NS,Vesuvius India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+VETO,VETO.NS,Veto Switchgears and Cables Limited,Industrials,NIFTY INFRA,^CNXINFRA
+VGL,VGL.NS,VGL,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+VGUARD,VGUARD.NS,V-Guard Industries Limited,Industrials,NIFTY INFRA,^CNXINFRA
+VHL,VHL.NS,Vardhman Holdings Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+VIDHIING,VIDHIING.NS,Vidhi Specialty Food Ingredients Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+VIDYAWIRES,VIDYAWIRES.NS,VIDYAWIRES,Industrials,NIFTY INFRA,^CNXINFRA
+VIJAYA,VIJAYA.NS,Vijaya Diagnostic Centre Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+VIJIFIN,VIJIFIN.NS,Viji Finance Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+VIKASECO,VIKASECO.NS,Vikas Ecotech Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+VIKASLIFE,VIKASLIFE.NS,Vikas Lifecare Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+VIKRAMSOLR,VIKRAMSOLR.NS,VIKRAMSOLR,Technology,NIFTY IT,^CNXIT
+VIKRAN,VIKRAN.NS,VIKRAN,Industrials,NIFTY INFRA,^CNXINFRA
+VIMTALABS,VIMTALABS.NS,Vimta Labs Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+VINATIORGA,VINATIORGA.NS,Vinati Organics Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+VINCOFE,VINCOFE.NS,Vintage Coffee and Beverages Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+VINDHYATEL,VINDHYATEL.NS,Vindhya Telelinks Limited,Industrials,NIFTY INFRA,^CNXINFRA
+VINEETLAB,VINEETLAB.NS,Vineet Laboratories Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+VINNY,VINNY.NS,Vinny Overseas Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+VINYLINDIA,VINYLINDIA.NS,Vinyl Chemicals (India) Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+VIPCLOTHNG,VIPCLOTHNG.NS,VIP Clothing Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+VIPIND,VIPIND.NS,V.I.P. Industries Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+VIPULLTD,VIPULLTD.NS,Vipul Limited,Real Estate,NIFTY REALTY,^CNXREALTY
+VIRINCHI,VIRINCHI.NS,Virinchi Limited,Technology,NIFTY IT,^CNXIT
+VISAKAIND,VISAKAIND.NS,Visaka Industries Limited,Industrials,NIFTY INFRA,^CNXINFRA
+VISHNU,VISHNU.NS,Vishnu Chemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+VISHWARAJ,VISHWARAJ.NS,Vishwaraj Sugar Industries Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+VIVIDHA,VIVIDHA.NS,Visagar Polytex Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+VIVIMEDLAB,VIVIMEDLAB.NS,Vivimed Labs Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+VLEGOV,VLEGOV.NS,VL E-Governance & IT Solutions Limited,Technology,NIFTY IT,^CNXIT
+VLSFINANCE,VLSFINANCE.NS,VLS Finance Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+VMART,VMART.NS,V-Mart Retail Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+VMM,VMM.NS,VMM,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+VMSTMT,VMSTMT.NS,VMSTMT,Basic Materials,NIFTY METAL,^CNXMETAL
+VOLTAMP,VOLTAMP.NS,Voltamp Transformers Limited,Industrials,NIFTY INFRA,^CNXINFRA
+VOLTAS,VOLTAS.NS,Voltas Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+VPRPL,VPRPL.NS,Vishnu Prakash R Punglia Limited,Industrials,NIFTY INFRA,^CNXINFRA
+VRAJ,VRAJ.NS,VRAJ,Basic Materials,NIFTY METAL,^CNXMETAL
+VRLLOG,VRLLOG.NS,VRL Logistics Limited,Industrials,NIFTY INFRA,^CNXINFRA
+VSSL,VSSL.NS,Vardhman Special Steels Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+VSTIND,VSTIND.NS,VST Industries Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+VSTL,VSTL.NS,Vibhor Steel Tubes Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+VSTTILLERS,VSTTILLERS.NS,V.S.T. Tillers Tractors Limited,Industrials,NIFTY INFRA,^CNXINFRA
+VTL,VTL.NS,Vardhman Textiles Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+WAAREEENER,WAAREEENER.NS,WAAREEENER,Technology,NIFTY IT,^CNXIT
+WAAREERTL,WAAREERTL.NS,Waaree Renewable Technologies Limited,Utilities,NIFTY PSU BANK,^CNXPSUBANK
+WABAG,WABAG.NS,VA Tech Wabag Limited,Industrials,NIFTY INFRA,^CNXINFRA
+WAKEFIT,WAKEFIT.NS,WAKEFIT,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+WALCHANNAG,WALCHANNAG.NS,Walchandnagar Industries Limited,Industrials,NIFTY INFRA,^CNXINFRA
+WANBURY,WANBURY.NS,Wanbury Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+WCIL,WCIL.NS,WCIL,Industrials,NIFTY INFRA,^CNXINFRA
+WEALTH,WEALTH.NS,Wealth First Portfolio Managers Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+WEBELSOLAR,WEBELSOLAR.NS,Websol Energy System Limited,Technology,NIFTY IT,^CNXIT
+WEIZMANIND,WEIZMANIND.NS,Weizmann Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+WEL,WEL.NS,Wonder Electricals Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+WELCORP,WELCORP.NS,Welspun Corp Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+WELENT,WELENT.NS,Welspun Enterprises Limited,Industrials,NIFTY INFRA,^CNXINFRA
+WELINV,WELINV.NS,Welspun Investments and Commercials Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+WELSPUNLIV,WELSPUNLIV.NS,Welspun Living Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+WENDT,WENDT.NS,Wendt (India) Limited,Industrials,NIFTY INFRA,^CNXINFRA
+WESTLIFE,WESTLIFE.NS,Westlife Foodworld Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+WEWORK,WEWORK.NS,WEWORK,Real Estate,NIFTY REALTY,^CNXREALTY
+WHEELS,WHEELS.NS,Wheels India Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+WHIRLPOOL,WHIRLPOOL.NS,Whirlpool of India Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+WILLAMAGOR,WILLAMAGOR.NS,Williamson Magor & Co. Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+WINDLAS,WINDLAS.NS,Windlas Biotech Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+WINDMACHIN,WINDMACHIN.NS,Windsor Machines Limited,Industrials,NIFTY INFRA,^CNXINFRA
+WIPL,WIPL.NS,The Western India Plywoods Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+WIPRO,WIPRO.NS,Wipro Limited,Technology,NIFTY IT,^CNXIT
+WOCKPHARMA,WOCKPHARMA.NS,Wockhardt Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+WONDERLA,WONDERLA.NS,Wonderla Holidays Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+WORTHPERI,WORTHPERI.NS,Worth Peripherals Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+WSI,WSI.NS,W.S. Industries (India) Limited,Industrials,NIFTY INFRA,^CNXINFRA
+WSTCSTPAPR,WSTCSTPAPR.NS,West Coast Paper Mills Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+XCHANGING,XCHANGING.NS,Xchanging Solutions Limited,Technology,NIFTY IT,^CNXIT
+XPROINDIA,XPROINDIA.NS,Xpro India Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+XTGLOBAL,XTGLOBAL.NS,XTGlobal Infotech Limited,Technology,NIFTY IT,^CNXIT
+YASHO,YASHO.NS,Yasho Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+YATHARTH,YATHARTH.NS,Yatharth Hospital & Trauma Care Services Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+YATRA,YATRA.NS,Yatra Online Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+YESBANK,YESBANK.NS,Yes Bank Limited,Financial Services,NIFTY FIN SERVICE,^CNXFIN
+YUKEN,YUKEN.NS,Yuken India Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ZAGGLE,ZAGGLE.NS,Zaggle Prepaid Ocean Services Limited,Technology,NIFTY IT,^CNXIT
+ZEEL,ZEEL.NS,Zee Entertainment Enterprises Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+ZEELEARN,ZEELEARN.NS,Zee Learn Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
+ZEEMEDIA,ZEEMEDIA.NS,Zee Media Corporation Limited,Communication Services,NIFTY MEDIA,^CNXMEDIA
+ZENITHEXPO,ZENITHEXPO.NS,Zenith Exports Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ZENITHSTL,ZENITHSTL.NS,Zenith Steel Pipes & Industries Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ZENSARTECH,ZENSARTECH.NS,Zensar Technologies Limited,Technology,NIFTY IT,^CNXIT
+ZENTEC,ZENTEC.NS,Zen Technologies Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ZFCVINDIA,ZFCVINDIA.NS,ZF Commercial Vehicle Control Systems India Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ZIMLAB,ZIMLAB.NS,ZIM Laboratories Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+ZODIAC,ZODIAC.NS,Zodiac Energy Limited,UNKNOWN,UNKNOWN,NO_INDEX
+ZODIACLOTH,ZODIACLOTH.NS,Zodiac Clothing Company Limited,Consumer Cyclical,NIFTY AUTO,^CNXAUTO
+ZOTA,ZOTA.NS,Zota Health Care Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+ZUARI,ZUARI.NS,Zuari Agro Chemicals Limited,Basic Materials,NIFTY METAL,^CNXMETAL
+ZUARIIND,ZUARIIND.NS,Zuari Industries Limited,Industrials,NIFTY INFRA,^CNXINFRA
+ZYDUSLIFE,ZYDUSLIFE.NS,Zydus Lifesciences Limited,Healthcare,NIFTY PHARMA,^CNXPHARMA
+ZYDUSWELL,ZYDUSWELL.NS,Zydus Wellness Limited,Consumer Defensive,NIFTY FMCG,^CNXFMCG
