@@ -80,14 +80,22 @@ BASE = Path(__file__).parent
 CSV_FILE = BASE / "mtf_rsi_nse_cash_signals.csv"
 SECTOR_FILE = BASE / "sector_map.csv"
 
-
-
 def load_symbols():
     try:
         df = pd.read_csv(CSV_FILE)
+
+        if "date" in df.columns:
+            df["date"] = pd.to_datetime(df["date"])
+            latest = df["date"].max()
+            df = df[df["date"] == latest]
+
         return sorted(df["symbol"].dropna().astype(str).unique())
-    except:
+
+    except Exception as e:
+        print("Symbol load error:", e)
         return ["RELIANCE"]
+
+
 
 
 index_list = {
@@ -601,6 +609,7 @@ if __name__ == "__main__":
     import os
     port = int(os.environ.get("PORT", 10000))
     app.run(host="0.0.0.0", port=port, debug=False)
+
 
 
 
