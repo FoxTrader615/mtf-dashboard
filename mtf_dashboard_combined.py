@@ -298,8 +298,13 @@ def set_vol(v): return v
     Input("idx","data"))
 def symbol_list_cb(mode, idx):
     syms = list(index_list.keys()) if mode=="index" else load_symbols()
-    return [{"label":s,"value":s} for s in syms], syms[idx]
 
+    if not syms:
+        syms = ["RELIANCE"]
+
+    idx = idx % len(syms)
+
+    return [{"label": s, "value": s} for s in syms], syms[idx]
 
 @app.callback(
     Output("idx","data"),
@@ -592,6 +597,7 @@ if __name__ == "__main__":
     import os
     port = int(os.environ.get("PORT", 10000))
     app.run(host="0.0.0.0", port=port, debug=False)
+
 
 
 
