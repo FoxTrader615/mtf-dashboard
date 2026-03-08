@@ -90,8 +90,6 @@ def load_symbols():
         return ["RELIANCE"]
 
 
-stock_list = load_symbols()
-
 index_list = {
     "NIFTY 50": "^NSEI",
     "BANK NIFTY": "^NSEBANK",
@@ -299,7 +297,7 @@ def set_vol(v): return v
     Input("mode","data"),
     Input("idx","data"))
 def symbol_list_cb(mode, idx):
-    syms = list(index_list.keys()) if mode=="index" else stock_list
+    syms = list(index_list.keys()) if mode=="index" else load_symbols()
     return [{"label":s,"value":s} for s in syms], syms[idx]
 
 
@@ -311,7 +309,7 @@ def symbol_list_cb(mode, idx):
     Input("mode","data"),
     prevent_initial_call=True)
 def nav(_,__,idx,mode):
-    syms = list(index_list.keys()) if mode=="index" else stock_list
+    syms = list(index_list.keys()) if mode=="index" else load_symbols()
     return (idx-1)%len(syms) if ctx.triggered_id=="prev" else (idx+1)%len(syms)
 
 
@@ -594,6 +592,7 @@ if __name__ == "__main__":
     import os
     port = int(os.environ.get("PORT", 10000))
     app.run(host="0.0.0.0", port=port, debug=False)
+
 
 
 
