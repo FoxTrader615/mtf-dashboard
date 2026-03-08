@@ -55,11 +55,16 @@ log("=========== SCANNER STARTED ===========")
 # LOAD SYMBOL LIST
 # ===============================
 df_symbols = pd.read_csv(FILE_PATH)
+symbols = None
 
 for col in ["symbol","Symbol","SYMBOL","ticker","Ticker","TICKER"]:
     if col in df_symbols.columns:
         symbols = df_symbols[col].astype(str).tolist()
         break
+
+if symbols is None:
+    raise ValueError("No symbol column found in NSE_CASH_YAHOO_CORRECT.csv")
+
 
 symbols = [s if s.endswith(".NS") else f"{s}.NS" for s in symbols]
 
@@ -103,8 +108,8 @@ def normalize_df(df):
 
 
 def load_cache(ticker):
-    path = f"{CACHE_DIR}\\{ticker}.csv"
-    if not os.path.exists(path):
+    path = CACHE_DIR / f"{ticker}.csv"
+    if not path.exists():
         return None
 
     try:
@@ -115,7 +120,7 @@ def load_cache(ticker):
 
 
 def save_cache(ticker, df):
-    df.to_csv(f"{CACHE_DIR}\\{ticker}.csv")
+    df.to_csv(CACHE_DIR / f"{ticker}.csv")
 
 
 def download(ticker):
@@ -258,13 +263,14 @@ for ticker in tqdm(symbols, desc="Scanning NSE"):
 # ===============================
 df = pd.DataFrame(results)
 
-df.to_csv(rf"{BASE}\mtf_rsi_nse_cash_final.csv", index=False)
+df.to_csv(BASE / "mtf_rsi_nse_cash_final.csv", index=False)
 df[df["ENTRY_READY"]].to_csv(
-    rf"{BASE}\mtf_rsi_nse_cash_signals.csv",
+    BASE / "mtf_rsi_nse_cash_signals.csv",
     index=False
 )
 
 log("=========== SCANNER FINISHED ==========")
 
 print("\nDONE ✔ — open scanner_log.txt to review logs")
+
 
